@@ -1,0 +1,4658 @@
+{
+  "taxes": {
+    "1": {
+      "v13_id": 1,
+      "v18_id": 52,
+      "v13_name": "IVA 21% (Bienes)",
+      "v18_name": "21% G",
+      "amount": 21.0,
+      "type": "sale"
+    },
+    "4": {
+      "v13_id": 4,
+      "v18_id": 54,
+      "v13_name": "21% IVA soportado (bienes corrientes)",
+      "v18_name": "21% G",
+      "amount": 21.0,
+      "type": "purchase"
+    },
+    "2": {
+      "v13_id": 2,
+      "v18_id": 52,
+      "v13_name": "IVA 21% (Servicios)",
+      "v18_name": "21% G",
+      "amount": 21.0,
+      "type": "sale"
+    },
+    "3": {
+      "v13_id": 3,
+      "v18_id": 52,
+      "v13_name": "IVA 21% (ISP)",
+      "v18_name": "21% G",
+      "amount": 21.0,
+      "type": "sale"
+    },
+    "5": {
+      "v13_id": 5,
+      "v18_id": 54,
+      "v13_name": "21% IVA soportado (servicios corrientes)",
+      "v18_name": "21% G",
+      "amount": 21.0,
+      "type": "purchase"
+    },
+    "6": {
+      "v13_id": 6,
+      "v18_id": 54,
+      "v13_name": "IVA 21% Adquisición de servicios intracomunitarios",
+      "v18_name": "21% G",
+      "amount": 21.0,
+      "type": "purchase"
+    },
+    "7": {
+      "v13_id": 7,
+      "v18_id": 54,
+      "v13_name": "IVA 21% Adquisición Intracomunitaria. Bienes corrientes",
+      "v18_name": "21% G",
+      "amount": 21.0,
+      "type": "purchase"
+    },
+    "8": {
+      "v13_id": 8,
+      "v18_id": 54,
+      "v13_name": "IVA 21% Adquisición Intracomunitaria. Bienes de inversión",
+      "v18_name": "21% G",
+      "amount": 21.0,
+      "type": "purchase"
+    },
+    "9": {
+      "v13_id": 9,
+      "v18_id": 54,
+      "v13_name": "IVA 21% Importaciones bienes corrientes",
+      "v18_name": "21% G",
+      "amount": 21.0,
+      "type": "purchase"
+    },
+    "10": {
+      "v13_id": 10,
+      "v18_id": 54,
+      "v13_name": "IVA 21% Importaciones bienes de inversión",
+      "v18_name": "21% G",
+      "amount": 21.0,
+      "type": "purchase"
+    },
+    "11": {
+      "v13_id": 11,
+      "v18_id": 26,
+      "v13_name": "Retenciones IRPF (Trabajadores) dinerarios",
+      "v18_name": "15% WHI",
+      "amount": -15.0,
+      "type": "purchase"
+    },
+    "12": {
+      "v13_id": 12,
+      "v18_id": 61,
+      "v13_name": "IVA 4% Adquisición de servicios extracomunitarios",
+      "v18_name": "4% EX S",
+      "amount": 4.0,
+      "type": "purchase"
+    },
+    "13": {
+      "v13_id": 13,
+      "v18_id": 62,
+      "v13_name": "IVA 10% Adquisición de servicios extracomunitarios",
+      "v18_name": "10% EX S",
+      "amount": 10.0,
+      "type": "purchase"
+    },
+    "14": {
+      "v13_id": 14,
+      "v18_id": 54,
+      "v13_name": "IVA 21% Adquisición de servicios extracomunitarios",
+      "v18_name": "21% G",
+      "amount": 21.0,
+      "type": "purchase"
+    },
+    "15": {
+      "v13_id": 15,
+      "v18_id": 61,
+      "v13_name": "IVA 4% Adquisición Intracomunitario. Bienes corrientes",
+      "v18_name": "4% EX S",
+      "amount": 4.0,
+      "type": "purchase"
+    },
+    "16": {
+      "v13_id": 16,
+      "v18_id": 61,
+      "v13_name": "IVA 4% Adquisición Intracomunitario. Bienes de inversión",
+      "v18_name": "4% EX S",
+      "amount": 4.0,
+      "type": "purchase"
+    },
+    "17": {
+      "v13_id": 17,
+      "v18_id": 62,
+      "v13_name": "IVA 10% Adquisición Intracomunitario. Bienes corrientes",
+      "v18_name": "10% EX S",
+      "amount": 10.0,
+      "type": "purchase"
+    },
+    "18": {
+      "v13_id": 18,
+      "v18_id": 62,
+      "v13_name": "IVA 10% Adquisición Intracomunitario. Bienes de inversión",
+      "v18_name": "10% EX S",
+      "amount": 10.0,
+      "type": "purchase"
+    },
+    "19": {
+      "v13_id": 19,
+      "v18_id": 77,
+      "v13_name": "IVA 0% Prestación de servicios intracomunitario",
+      "v18_name": "0% EU S",
+      "amount": 0.0,
+      "type": "sale"
+    },
+    "20": {
+      "v13_id": 20,
+      "v18_id": 77,
+      "v13_name": "No sujeto Repercutido (Servicios)",
+      "v18_name": "0% EU S",
+      "amount": 0.0,
+      "type": "sale"
+    },
+    "21": {
+      "v13_id": 21,
+      "v18_id": 77,
+      "v13_name": "No sujeto Repercutido (Bienes)",
+      "v18_name": "0% EU S",
+      "amount": 0.0,
+      "type": "sale"
+    },
+    "22": {
+      "v13_id": 22,
+      "v18_id": 77,
+      "v13_name": "IVA 0% Prestación de servicios extracomunitaria",
+      "v18_name": "0% EU S",
+      "amount": 0.0,
+      "type": "sale"
+    },
+    "23": {
+      "v13_id": 23,
+      "v18_id": 61,
+      "v13_name": "IVA 4% Importaciones bienes corrientes",
+      "v18_name": "4% EX S",
+      "amount": 4.0,
+      "type": "purchase"
+    },
+    "24": {
+      "v13_id": 24,
+      "v18_id": 61,
+      "v13_name": "IVA 4% Importaciones bienes de inversión",
+      "v18_name": "4% EX S",
+      "amount": 4.0,
+      "type": "purchase"
+    },
+    "25": {
+      "v13_id": 25,
+      "v18_id": 62,
+      "v13_name": "IVA 10% Importaciones bienes corrientes",
+      "v18_name": "10% EX S",
+      "amount": 10.0,
+      "type": "purchase"
+    },
+    "26": {
+      "v13_id": 26,
+      "v18_id": 62,
+      "v13_name": "IVA 10% Importaciones bienes de inversión",
+      "v18_name": "10% EX S",
+      "amount": 10.0,
+      "type": "purchase"
+    },
+    "27": {
+      "v13_id": 27,
+      "v18_id": 61,
+      "v13_name": "4% IVA Soportado (bienes de inversión)",
+      "v18_name": "4% EX S",
+      "amount": 4.0,
+      "type": "purchase"
+    },
+    "28": {
+      "v13_id": 28,
+      "v18_id": 61,
+      "v13_name": "4% IVA soportado (servicios corrientes)",
+      "v18_name": "4% EX S",
+      "amount": 4.0,
+      "type": "purchase"
+    },
+    "29": {
+      "v13_id": 29,
+      "v18_id": 62,
+      "v13_name": "10% IVA Soportado (bienes de inversión)",
+      "v18_name": "10% EX S",
+      "amount": 10.0,
+      "type": "purchase"
+    },
+    "30": {
+      "v13_id": 30,
+      "v18_id": 54,
+      "v13_name": "21% IVA Soportado (bienes de inversión)",
+      "v18_name": "21% G",
+      "amount": 21.0,
+      "type": "purchase"
+    },
+    "31": {
+      "v13_id": 31,
+      "v18_id": 62,
+      "v13_name": "10% IVA soportado (bienes corrientes)",
+      "v18_name": "10% EX S",
+      "amount": 10.0,
+      "type": "purchase"
+    },
+    "32": {
+      "v13_id": 32,
+      "v18_id": 61,
+      "v13_name": "4% IVA soportado (bienes corrientes)",
+      "v18_name": "4% EX S",
+      "amount": 4.0,
+      "type": "purchase"
+    },
+    "33": {
+      "v13_id": 33,
+      "v18_id": 62,
+      "v13_name": "10% IVA soportado (servicios corrientes)",
+      "v18_name": "10% EX S",
+      "amount": 10.0,
+      "type": "purchase"
+    },
+    "34": {
+      "v13_id": 34,
+      "v18_id": 77,
+      "v13_name": "IVA Exento Repercutido Sujeto",
+      "v18_name": "0% EU S",
+      "amount": 0.0,
+      "type": "sale"
+    },
+    "35": {
+      "v13_id": 35,
+      "v18_id": 77,
+      "v13_name": "IVA Exento Repercutido No Sujeto",
+      "v18_name": "0% EU S",
+      "amount": 0.0,
+      "type": "sale"
+    },
+    "36": {
+      "v13_id": 36,
+      "v18_id": 119,
+      "v13_name": "0.50% Recargo Equivalencia Ventas",
+      "v18_name": "0.5% SE",
+      "amount": 0.5,
+      "type": "sale"
+    },
+    "37": {
+      "v13_id": 37,
+      "v18_id": 122,
+      "v13_name": "IVA 4% (Bienes)",
+      "v18_name": "4% G",
+      "amount": 4.0,
+      "type": "sale"
+    },
+    "38": {
+      "v13_id": 38,
+      "v18_id": 123,
+      "v13_name": "IVA 10% (Bienes)",
+      "v18_name": "10% G",
+      "amount": 10.0,
+      "type": "sale"
+    },
+    "39": {
+      "v13_id": 39,
+      "v18_id": 54,
+      "v13_name": "21% IVA Soportado no deducible",
+      "v18_name": "21% G",
+      "amount": 21.0,
+      "type": "purchase"
+    },
+    "40": {
+      "v13_id": 40,
+      "v18_id": 62,
+      "v13_name": "10% IVA Soportado no deducible",
+      "v18_name": "10% EX S",
+      "amount": 10.0,
+      "type": "purchase"
+    },
+    "41": {
+      "v13_id": 41,
+      "v18_id": 61,
+      "v13_name": "4% IVA Soportado no deducible",
+      "v18_name": "4% EX S",
+      "amount": 4.0,
+      "type": "purchase"
+    },
+    "42": {
+      "v13_id": 42,
+      "v18_id": 122,
+      "v13_name": "IVA 4% (Servicios)",
+      "v18_name": "4% G",
+      "amount": 4.0,
+      "type": "sale"
+    },
+    "43": {
+      "v13_id": 43,
+      "v18_id": 123,
+      "v13_name": "IVA 10% (Servicios)",
+      "v18_name": "10% G",
+      "amount": 10.0,
+      "type": "sale"
+    },
+    "44": {
+      "v13_id": 44,
+      "v18_id": 140,
+      "v13_name": "1.4% Recargo Equivalencia Ventas",
+      "v18_name": "1.4% SE",
+      "amount": 1.4,
+      "type": "sale"
+    },
+    "45": {
+      "v13_id": 45,
+      "v18_id": 141,
+      "v13_name": "5.2% Recargo Equivalencia Ventas",
+      "v18_name": "5.2% SE",
+      "amount": 5.2,
+      "type": "sale"
+    },
+    "46": {
+      "v13_id": 46,
+      "v18_id": 50,
+      "v13_name": "IVA Soportado exento (operaciones corrientes)",
+      "v18_name": "Exempt DUA",
+      "amount": 0.0,
+      "type": "purchase"
+    },
+    "47": {
+      "v13_id": 47,
+      "v18_id": 50,
+      "v13_name": "IVA Soportado no sujeto (Servicios)",
+      "v18_name": "Exempt DUA",
+      "amount": 0.0,
+      "type": "purchase"
+    },
+    "48": {
+      "v13_id": 48,
+      "v18_id": 50,
+      "v13_name": "IVA Soportado no sujeto (Bienes)",
+      "v18_name": "Exempt DUA",
+      "amount": 0.0,
+      "type": "purchase"
+    },
+    "49": {
+      "v13_id": 49,
+      "v18_id": 1,
+      "v13_name": "Retenciones a cuenta IRPF 9%",
+      "v18_name": "9% WHI",
+      "amount": -9.0,
+      "type": "sale"
+    },
+    "50": {
+      "v13_id": 50,
+      "v18_id": 2,
+      "v13_name": "Retenciones a cuenta IRPF 18%",
+      "v18_name": "18% WHI",
+      "amount": -18.0,
+      "type": "sale"
+    },
+    "51": {
+      "v13_id": 51,
+      "v18_id": 3,
+      "v13_name": "Retenciones a cuenta IRPF 19%",
+      "v18_name": "19% WHI",
+      "amount": -19.0,
+      "type": "sale"
+    },
+    "52": {
+      "v13_id": 52,
+      "v18_id": 3,
+      "v13_name": "Retenciones a cuenta 19% (Arrendamientos)",
+      "v18_name": "19% WHI",
+      "amount": -19.0,
+      "type": "sale"
+    },
+    "53": {
+      "v13_id": 53,
+      "v18_id": 5,
+      "v13_name": "Retenciones a cuenta 19,5% (Arrendamientos)",
+      "v18_name": "19.5% WH lease",
+      "amount": -19.5,
+      "type": "sale"
+    },
+    "54": {
+      "v13_id": 54,
+      "v18_id": 6,
+      "v13_name": "Retenciones IRPF 19%",
+      "v18_name": "19% WHI",
+      "amount": -19.0,
+      "type": "purchase"
+    },
+    "55": {
+      "v13_id": 55,
+      "v18_id": 7,
+      "v13_name": "Retenciones 20% (Arrendamientos)",
+      "v18_name": "20% WH lease",
+      "amount": -20.0,
+      "type": "purchase"
+    },
+    "56": {
+      "v13_id": 56,
+      "v18_id": 8,
+      "v13_name": "Retenciones IRPF 18%",
+      "v18_name": "18% WHI",
+      "amount": -18.0,
+      "type": "purchase"
+    },
+    "57": {
+      "v13_id": 57,
+      "v18_id": 6,
+      "v13_name": "Retenciones 19% (Arrendamientos)",
+      "v18_name": "19% WHI",
+      "amount": -19.0,
+      "type": "purchase"
+    },
+    "58": {
+      "v13_id": 58,
+      "v18_id": 10,
+      "v13_name": "Retenciones 19,5% (Arrendamientos)",
+      "v18_name": "19.5% WH lease",
+      "amount": -19.5,
+      "type": "purchase"
+    },
+    "59": {
+      "v13_id": 59,
+      "v18_id": 11,
+      "v13_name": "Retenciones IRPF 7%",
+      "v18_name": "7% WHI",
+      "amount": -7.0,
+      "type": "purchase"
+    },
+    "60": {
+      "v13_id": 60,
+      "v18_id": 12,
+      "v13_name": "Retenciones IRPF 9%",
+      "v18_name": "9% WHI",
+      "amount": -9.0,
+      "type": "purchase"
+    },
+    "61": {
+      "v13_id": 61,
+      "v18_id": 13,
+      "v13_name": "Retenciones IRPF 14%",
+      "v18_name": "24% WHI",
+      "amount": -24.0,
+      "type": "purchase"
+    },
+    "62": {
+      "v13_id": 62,
+      "v18_id": 15,
+      "v13_name": "Retenciones a cuenta IRPF 20%",
+      "v18_name": "20% WHI",
+      "amount": -20.0,
+      "type": "sale"
+    },
+    "63": {
+      "v13_id": 63,
+      "v18_id": 15,
+      "v13_name": "Retenciones a cuenta 20% (Arrendamientos)",
+      "v18_name": "20% WHI",
+      "amount": -20.0,
+      "type": "sale"
+    },
+    "64": {
+      "v13_id": 64,
+      "v18_id": 17,
+      "v13_name": "Retenciones a cuenta IRPF 24%",
+      "v18_name": "24% WHI",
+      "amount": -24.0,
+      "type": "sale"
+    },
+    "65": {
+      "v13_id": 65,
+      "v18_id": 145,
+      "v13_name": "12% IVA Soportado régimen agricultura",
+      "v18_name": "12% agri",
+      "amount": 12.0,
+      "type": "purchase"
+    },
+    "66": {
+      "v13_id": 66,
+      "v18_id": 146,
+      "v13_name": "10,5% IVA Soportado régimen ganadero o pesca",
+      "v18_name": "10.5% livestock fishing",
+      "amount": 10.5,
+      "type": "purchase"
+    },
+    "67": {
+      "v13_id": 67,
+      "v18_id": 77,
+      "v13_name": "IVA 0% Exportaciones",
+      "v18_name": "0% EU S",
+      "amount": 0.0,
+      "type": "sale"
+    },
+    "68": {
+      "v13_id": 68,
+      "v18_id": 77,
+      "v13_name": "IVA 0% Entregas Intracomunitarias exentas",
+      "v18_name": "0% EU S",
+      "amount": 0.0,
+      "type": "sale"
+    },
+    "69": {
+      "v13_id": 69,
+      "v18_id": 147,
+      "v13_name": "1.4% Recargo Equivalencia Compras",
+      "v18_name": "1.4% SE",
+      "amount": 1.4,
+      "type": "purchase"
+    },
+    "70": {
+      "v13_id": 70,
+      "v18_id": 150,
+      "v13_name": "0.50% Recargo Equivalencia Compras",
+      "v18_name": "0.5% SE",
+      "amount": 0.5,
+      "type": "purchase"
+    },
+    "71": {
+      "v13_id": 71,
+      "v18_id": 153,
+      "v13_name": "5.2% Recargo Equivalencia Compras",
+      "v18_name": "5.2% SE",
+      "amount": 5.2,
+      "type": "purchase"
+    },
+    "72": {
+      "v13_id": 72,
+      "v18_id": 19,
+      "v13_name": "Retenciones a cuenta IRPF 1%",
+      "v18_name": "1% WHI",
+      "amount": -1.0,
+      "type": "sale"
+    },
+    "73": {
+      "v13_id": 73,
+      "v18_id": 20,
+      "v13_name": "Retenciones a cuenta IRPF 2%",
+      "v18_name": "2% WHI",
+      "amount": -2.0,
+      "type": "sale"
+    },
+    "74": {
+      "v13_id": 74,
+      "v18_id": 21,
+      "v13_name": "Retenciones a cuenta IRPF 21%",
+      "v18_name": "21% WHI",
+      "amount": -21.0,
+      "type": "sale"
+    },
+    "75": {
+      "v13_id": 75,
+      "v18_id": 21,
+      "v13_name": "Retenciones a cuenta 21% (Arrendamientos)",
+      "v18_name": "21% WHI",
+      "amount": -21.0,
+      "type": "sale"
+    },
+    "76": {
+      "v13_id": 76,
+      "v18_id": 23,
+      "v13_name": "Retenciones a cuenta IRPF 7%",
+      "v18_name": "7% WHI",
+      "amount": -7.0,
+      "type": "sale"
+    },
+    "77": {
+      "v13_id": 77,
+      "v18_id": 24,
+      "v13_name": "Retenciones a cuenta IRPF 15%",
+      "v18_name": "15% WHI",
+      "amount": -15.0,
+      "type": "sale"
+    },
+    "78": {
+      "v13_id": 78,
+      "v18_id": 25,
+      "v13_name": "Retenciones IRPF 1%",
+      "v18_name": "1% WHI",
+      "amount": -1.0,
+      "type": "purchase"
+    },
+    "79": {
+      "v13_id": 79,
+      "v18_id": 26,
+      "v13_name": "Retenciones IRPF 15%",
+      "v18_name": "15% WHI",
+      "amount": -15.0,
+      "type": "purchase"
+    },
+    "80": {
+      "v13_id": 80,
+      "v18_id": 26,
+      "v13_name": "Retenciones IRPF (Trabajadores)",
+      "v18_name": "15% WHI",
+      "amount": -15.0,
+      "type": "purchase"
+    },
+    "81": {
+      "v13_id": 81,
+      "v18_id": 62,
+      "v13_name": "IVA 10% Adquisición de servicios intracomunitarios",
+      "v18_name": "10% EX S",
+      "amount": 10.0,
+      "type": "purchase"
+    },
+    "82": {
+      "v13_id": 82,
+      "v18_id": 61,
+      "v13_name": "IVA 4% Adquisición de servicios intracomunitarios",
+      "v18_name": "4% EX S",
+      "amount": 4.0,
+      "type": "purchase"
+    },
+    "83": {
+      "v13_id": 83,
+      "v18_id": 26,
+      "v13_name": "Retenciones IRPF (Trabajadores) en especie",
+      "v18_name": "15% WHI",
+      "amount": -15.0,
+      "type": "purchase"
+    },
+    "84": {
+      "v13_id": 84,
+      "v18_id": 7,
+      "v13_name": "Retenciones IRPF 20%",
+      "v18_name": "20% WH lease",
+      "amount": -20.0,
+      "type": "purchase"
+    },
+    "85": {
+      "v13_id": 85,
+      "v18_id": 32,
+      "v13_name": "Retenciones 21% (Arrendamientos)",
+      "v18_name": "21% WH lease",
+      "amount": -21.0,
+      "type": "purchase"
+    },
+    "86": {
+      "v13_id": 86,
+      "v18_id": 32,
+      "v13_name": "Retenciones IRPF 21%",
+      "v18_name": "21% WH lease",
+      "amount": -21.0,
+      "type": "purchase"
+    },
+    "88": {
+      "v13_id": 88,
+      "v18_id": 77,
+      "v13_name": "IVA 0% Venta con Inversión del Sujeto Pasivo",
+      "v18_name": "0% EU S",
+      "amount": 0.0,
+      "type": "sale"
+    },
+    "89": {
+      "v13_id": 89,
+      "v18_id": 61,
+      "v13_name": "IVA 4% Compra con Inversión del Sujeto Pasivo Nacional",
+      "v18_name": "4% EX S",
+      "amount": 4.0,
+      "type": "purchase"
+    },
+    "90": {
+      "v13_id": 90,
+      "v18_id": 62,
+      "v13_name": "IVA 10% Compra con Inversión del Sujeto Pasivo Nacional",
+      "v18_name": "10% EX S",
+      "amount": 10.0,
+      "type": "purchase"
+    },
+    "91": {
+      "v13_id": 91,
+      "v18_id": 54,
+      "v13_name": "IVA 21% Compra con Inversión del Sujeto Pasivo Nacional",
+      "v18_name": "21% G",
+      "amount": 21.0,
+      "type": "purchase"
+    },
+    "92": {
+      "v13_id": 92,
+      "v18_id": 6,
+      "v13_name": "Retenciones 19% (préstamos)",
+      "v18_name": "19% WHI",
+      "amount": -19.0,
+      "type": "purchase"
+    },
+    "93": {
+      "v13_id": 93,
+      "v18_id": 6,
+      "v13_name": "Retenciones 19% (reparto de dividendos)",
+      "v18_name": "19% WHI",
+      "amount": -19.0,
+      "type": "purchase"
+    },
+    "87": {
+      "v13_id": 87,
+      "v18_id": 35,
+      "v13_name": "Retenciones IRPF 2%",
+      "v18_name": "2% WHI",
+      "amount": -2.0,
+      "type": "purchase"
+    }
+  },
+  "accounts": {
+    "597": {
+      "v13_id": 597,
+      "v18_id": 589,
+      "code": "100000",
+      "name": "Capital social"
+    },
+    "2": {
+      "v13_id": 2,
+      "v18_id": 1,
+      "code": "101000",
+      "name": "Fondo social"
+    },
+    "3": {
+      "v13_id": 3,
+      "v18_id": 2,
+      "code": "102000",
+      "name": "Capital"
+    },
+    "598": {
+      "v13_id": 598,
+      "v18_id": 590,
+      "code": "103000",
+      "name": "Socios por desembolsos no exigidos, capital social"
+    },
+    "599": {
+      "v13_id": 599,
+      "v18_id": 591,
+      "code": "103400",
+      "name": "Socios por desembolsos no exigidos, capital pendiente de inscripción"
+    },
+    "600": {
+      "v13_id": 600,
+      "v18_id": 592,
+      "code": "104000",
+      "name": "Socios por aportaciones no dinerarias pendientes, capital social"
+    },
+    "601": {
+      "v13_id": 601,
+      "v18_id": 593,
+      "code": "104400",
+      "name": "Socios por aportaciones no dinerarias pendientes, capital pendiente de inscripción"
+    },
+    "4": {
+      "v13_id": 4,
+      "v18_id": 3,
+      "code": "108000",
+      "name": "Acciones o participaciones propias en situaciones especiales"
+    },
+    "5": {
+      "v13_id": 5,
+      "v18_id": 4,
+      "code": "109000",
+      "name": "Acciones o participaciones propias para reducción de capital"
+    },
+    "6": {
+      "v13_id": 6,
+      "v18_id": 5,
+      "code": "110000",
+      "name": "Prima de emisión o asunción"
+    },
+    "7": {
+      "v13_id": 7,
+      "v18_id": 594,
+      "code": "112000",
+      "name": "Reserva legal"
+    },
+    "8": {
+      "v13_id": 8,
+      "v18_id": 595,
+      "code": "113000",
+      "name": "Reservas voluntarias"
+    },
+    "9": {
+      "v13_id": 9,
+      "v18_id": 6,
+      "code": "114000",
+      "name": "Reservas para acciones o participaciones de la sociedad dominante"
+    },
+    "10": {
+      "v13_id": 10,
+      "v18_id": 7,
+      "code": "114100",
+      "name": "Reservas estatutarias"
+    },
+    "11": {
+      "v13_id": 11,
+      "v18_id": 8,
+      "code": "114200",
+      "name": "Reserva por capital amortizado"
+    },
+    "12": {
+      "v13_id": 12,
+      "v18_id": 9,
+      "code": "114400",
+      "name": "Reservas por acciones propias aceptadas en garantía"
+    },
+    "13": {
+      "v13_id": 13,
+      "v18_id": 10,
+      "code": "118000",
+      "name": "Aportaciones de socios o propietarios"
+    },
+    "14": {
+      "v13_id": 14,
+      "v18_id": 11,
+      "code": "119000",
+      "name": "Diferencias por ajuste del capital a euros"
+    },
+    "602": {
+      "v13_id": 602,
+      "v18_id": 596,
+      "code": "120000",
+      "name": "Remanente"
+    },
+    "603": {
+      "v13_id": 603,
+      "v18_id": 597,
+      "code": "121000",
+      "name": "Resultados negativos de ejercicios anteriores"
+    },
+    "604": {
+      "v13_id": 604,
+      "v18_id": 598,
+      "code": "129000",
+      "name": "Resultado del ejercicio"
+    },
+    "605": {
+      "v13_id": 605,
+      "v18_id": 599,
+      "code": "130000",
+      "name": "Subvenciones oficiales de capital"
+    },
+    "15": {
+      "v13_id": 15,
+      "v18_id": 12,
+      "code": "131000",
+      "name": "Donaciones y legados de capital"
+    },
+    "606": {
+      "v13_id": 606,
+      "v18_id": 600,
+      "code": "132000",
+      "name": "Otras subvenciones, donaciones y legados"
+    },
+    "16": {
+      "v13_id": 16,
+      "v18_id": 13,
+      "code": "137000",
+      "name": "Ingresos fiscales por diferencias permanentes a distribuir en varios ejercicios"
+    },
+    "17": {
+      "v13_id": 17,
+      "v18_id": 14,
+      "code": "137100",
+      "name": "Ingresos fiscales por deducciones y bonificaciones a distribuir en varios ejercicios"
+    },
+    "18": {
+      "v13_id": 18,
+      "v18_id": 15,
+      "code": "141000",
+      "name": "Provisión para impuestos"
+    },
+    "19": {
+      "v13_id": 19,
+      "v18_id": 16,
+      "code": "142000",
+      "name": "Provisión para otras responsabilidades"
+    },
+    "20": {
+      "v13_id": 20,
+      "v18_id": 17,
+      "code": "143000",
+      "name": "Provisión por desmantelamiento, retiro o rehabilitación del inmovilizado"
+    },
+    "21": {
+      "v13_id": 21,
+      "v18_id": 18,
+      "code": "145000",
+      "name": "Provisión para actuaciones medioambientales"
+    },
+    "22": {
+      "v13_id": 22,
+      "v18_id": 601,
+      "code": "150000",
+      "name": "Acciones o participaciones consideradas como pasivos financieros"
+    },
+    "23": {
+      "v13_id": 23,
+      "v18_id": 19,
+      "code": "153300",
+      "name": "Desembolsos no exigidos, empresas del grupo"
+    },
+    "24": {
+      "v13_id": 24,
+      "v18_id": 20,
+      "code": "153400",
+      "name": "Desembolsos no exigidos, empresas asociadas"
+    },
+    "25": {
+      "v13_id": 25,
+      "v18_id": 21,
+      "code": "153500",
+      "name": "Desembolsos no exigidos, otras partes vinculadas"
+    },
+    "26": {
+      "v13_id": 26,
+      "v18_id": 22,
+      "code": "153600",
+      "name": "Otros desembolsos no exigidos"
+    },
+    "27": {
+      "v13_id": 27,
+      "v18_id": 23,
+      "code": "154300",
+      "name": "Aportaciones no dinerarias pendientes, empresas del grupo"
+    },
+    "28": {
+      "v13_id": 28,
+      "v18_id": 24,
+      "code": "154400",
+      "name": "Aportaciones no dinerarias pendientes, empresas asociadas"
+    },
+    "29": {
+      "v13_id": 29,
+      "v18_id": 25,
+      "code": "154500",
+      "name": "Aportaciones no dinerarias pendientes, otras partes vinculadas"
+    },
+    "30": {
+      "v13_id": 30,
+      "v18_id": 26,
+      "code": "154600",
+      "name": "Otras aportaciones no dinerarias pendientes"
+    },
+    "31": {
+      "v13_id": 31,
+      "v18_id": 27,
+      "code": "160300",
+      "name": "Deudas con entidades de crédito vinculadas, empresas del grupo"
+    },
+    "32": {
+      "v13_id": 32,
+      "v18_id": 28,
+      "code": "160400",
+      "name": "Deudas con entidades de crédito vinculadas, empresas asociadas"
+    },
+    "33": {
+      "v13_id": 33,
+      "v18_id": 29,
+      "code": "160500",
+      "name": "Deudas con otras entidades de crédito vinculadas"
+    },
+    "34": {
+      "v13_id": 34,
+      "v18_id": 30,
+      "code": "161300",
+      "name": "Proveedores de inmovilizado, empresas del grupo"
+    },
+    "35": {
+      "v13_id": 35,
+      "v18_id": 31,
+      "code": "161400",
+      "name": "Proveedores de inmovilizado, empresas asociadas"
+    },
+    "36": {
+      "v13_id": 36,
+      "v18_id": 32,
+      "code": "161500",
+      "name": "Proveedores de inmovilizado, otras partes vinculadas"
+    },
+    "37": {
+      "v13_id": 37,
+      "v18_id": 33,
+      "code": "162300",
+      "name": "Acreedores por arrendamiento financiero, empresas de grupo"
+    },
+    "38": {
+      "v13_id": 38,
+      "v18_id": 34,
+      "code": "162400",
+      "name": "Acreedores por arrendamiento financiero, empresas asociadas"
+    },
+    "39": {
+      "v13_id": 39,
+      "v18_id": 35,
+      "code": "162500",
+      "name": "Acreedores por arrendamiento financiero, otras partes vinculadas"
+    },
+    "40": {
+      "v13_id": 40,
+      "v18_id": 36,
+      "code": "163300",
+      "name": "Otras deudas, empresas del grupo"
+    },
+    "41": {
+      "v13_id": 41,
+      "v18_id": 37,
+      "code": "163400",
+      "name": "Otras deudas, empresas asociadas"
+    },
+    "42": {
+      "v13_id": 42,
+      "v18_id": 38,
+      "code": "163500",
+      "name": "Otras deudas, con otras partes vinculadas"
+    },
+    "43": {
+      "v13_id": 43,
+      "v18_id": 39,
+      "code": "170000",
+      "name": "Deudas con entidades de crédito"
+    },
+    "44": {
+      "v13_id": 44,
+      "v18_id": 602,
+      "code": "171000",
+      "name": "Deudas"
+    },
+    "45": {
+      "v13_id": 45,
+      "v18_id": 40,
+      "code": "172000",
+      "name": "Deudas transformables en subvenciones, donaciones y legados"
+    },
+    "46": {
+      "v13_id": 46,
+      "v18_id": 41,
+      "code": "173000",
+      "name": "Proveedores de inmovilizado"
+    },
+    "47": {
+      "v13_id": 47,
+      "v18_id": 42,
+      "code": "174000",
+      "name": "Acreedores por arrendamiento financiero"
+    },
+    "48": {
+      "v13_id": 48,
+      "v18_id": 43,
+      "code": "175000",
+      "name": "Efectos a pagar"
+    },
+    "49": {
+      "v13_id": 49,
+      "v18_id": 44,
+      "code": "176000",
+      "name": "Pasivos por derivados financieros"
+    },
+    "50": {
+      "v13_id": 50,
+      "v18_id": 45,
+      "code": "177000",
+      "name": "Obligaciones y bonos"
+    },
+    "51": {
+      "v13_id": 51,
+      "v18_id": 46,
+      "code": "179000",
+      "name": "Deudas representadas en otros valores negociables"
+    },
+    "52": {
+      "v13_id": 52,
+      "v18_id": 47,
+      "code": "180000",
+      "name": "Fianzas recibidas"
+    },
+    "53": {
+      "v13_id": 53,
+      "v18_id": 48,
+      "code": "181000",
+      "name": "Anticipos recibidos por ventas o prestaciones de servicios"
+    },
+    "54": {
+      "v13_id": 54,
+      "v18_id": 49,
+      "code": "185000",
+      "name": "Depósitos recibidos"
+    },
+    "55": {
+      "v13_id": 55,
+      "v18_id": 50,
+      "code": "190000",
+      "name": "Acciones o participaciones emitidas"
+    },
+    "56": {
+      "v13_id": 56,
+      "v18_id": 51,
+      "code": "192000",
+      "name": "Suscriptores de acciones"
+    },
+    "57": {
+      "v13_id": 57,
+      "v18_id": 52,
+      "code": "194000",
+      "name": "Capital emitido pendiente de inscripción"
+    },
+    "58": {
+      "v13_id": 58,
+      "v18_id": 53,
+      "code": "195000",
+      "name": "Acciones o participaciones emitidas consideradas como pasivos financieros"
+    },
+    "59": {
+      "v13_id": 59,
+      "v18_id": 54,
+      "code": "197000",
+      "name": "Suscriptores de acciones consideradas como pasivos financieros"
+    },
+    "60": {
+      "v13_id": 60,
+      "v18_id": 55,
+      "code": "199000",
+      "name": "Acciones o participaciones emitidas consideradas como pasivos financieros pendientes de inscripción"
+    },
+    "61": {
+      "v13_id": 61,
+      "v18_id": 56,
+      "code": "200000",
+      "name": "Investigación"
+    },
+    "62": {
+      "v13_id": 62,
+      "v18_id": 57,
+      "code": "201000",
+      "name": "Desarrollo"
+    },
+    "63": {
+      "v13_id": 63,
+      "v18_id": 58,
+      "code": "202000",
+      "name": "Concesiones administrativas"
+    },
+    "64": {
+      "v13_id": 64,
+      "v18_id": 59,
+      "code": "203000",
+      "name": "Propiedad industrial"
+    },
+    "65": {
+      "v13_id": 65,
+      "v18_id": 60,
+      "code": "205000",
+      "name": "Derechos de traspaso"
+    },
+    "66": {
+      "v13_id": 66,
+      "v18_id": 61,
+      "code": "206000",
+      "name": "Aplicaciones informáticas"
+    },
+    "67": {
+      "v13_id": 67,
+      "v18_id": 62,
+      "code": "209000",
+      "name": "Anticipos para inmovilizaciones intangibles"
+    },
+    "68": {
+      "v13_id": 68,
+      "v18_id": 63,
+      "code": "210000",
+      "name": "Terrenos y bienes naturales"
+    },
+    "69": {
+      "v13_id": 69,
+      "v18_id": 64,
+      "code": "211000",
+      "name": "Construcciones"
+    },
+    "70": {
+      "v13_id": 70,
+      "v18_id": 65,
+      "code": "212000",
+      "name": "Instalaciones técnicas"
+    },
+    "71": {
+      "v13_id": 71,
+      "v18_id": 66,
+      "code": "213000",
+      "name": "Maquinaria"
+    },
+    "72": {
+      "v13_id": 72,
+      "v18_id": 67,
+      "code": "214000",
+      "name": "Utillaje"
+    },
+    "73": {
+      "v13_id": 73,
+      "v18_id": 68,
+      "code": "215000",
+      "name": "Otras instalaciones"
+    },
+    "74": {
+      "v13_id": 74,
+      "v18_id": 69,
+      "code": "216000",
+      "name": "Mobiliario"
+    },
+    "75": {
+      "v13_id": 75,
+      "v18_id": 70,
+      "code": "217000",
+      "name": "Equipos para proceso de información"
+    },
+    "76": {
+      "v13_id": 76,
+      "v18_id": 71,
+      "code": "218000",
+      "name": "Elementos de transporte"
+    },
+    "77": {
+      "v13_id": 77,
+      "v18_id": 72,
+      "code": "219000",
+      "name": "Otro inmovilizado material"
+    },
+    "78": {
+      "v13_id": 78,
+      "v18_id": 73,
+      "code": "220000",
+      "name": "Inversiones en terrenos y bienes naturales"
+    },
+    "79": {
+      "v13_id": 79,
+      "v18_id": 74,
+      "code": "221000",
+      "name": "Inversiones en construcciones"
+    },
+    "80": {
+      "v13_id": 80,
+      "v18_id": 75,
+      "code": "230000",
+      "name": "Adaptación de terrenos y bienes naturales"
+    },
+    "81": {
+      "v13_id": 81,
+      "v18_id": 76,
+      "code": "231000",
+      "name": "Construcciones en curso"
+    },
+    "82": {
+      "v13_id": 82,
+      "v18_id": 77,
+      "code": "232000",
+      "name": "Instalaciones técnicas en montaje"
+    },
+    "83": {
+      "v13_id": 83,
+      "v18_id": 78,
+      "code": "233000",
+      "name": "Maquinaria en montaje"
+    },
+    "84": {
+      "v13_id": 84,
+      "v18_id": 79,
+      "code": "237000",
+      "name": "Equipos para procesos de información en montaje"
+    },
+    "85": {
+      "v13_id": 85,
+      "v18_id": 80,
+      "code": "239000",
+      "name": "Anticipos para inmovilizaciones materiales"
+    },
+    "607": {
+      "v13_id": 607,
+      "v18_id": 603,
+      "code": "240300",
+      "name": "Participaciones en empresas del grupo"
+    },
+    "608": {
+      "v13_id": 608,
+      "v18_id": 604,
+      "code": "240400",
+      "name": "Participaciones en empresas asociadas"
+    },
+    "609": {
+      "v13_id": 609,
+      "v18_id": 605,
+      "code": "240500",
+      "name": "Participaciones en otras partes vinculadas"
+    },
+    "86": {
+      "v13_id": 86,
+      "v18_id": 81,
+      "code": "241300",
+      "name": "Valores representativos de deuda de empresas del grupo"
+    },
+    "87": {
+      "v13_id": 87,
+      "v18_id": 82,
+      "code": "241400",
+      "name": "Valores representativos de deuda de empresas asociadas"
+    },
+    "88": {
+      "v13_id": 88,
+      "v18_id": 83,
+      "code": "241500",
+      "name": "Valores representativos de deuda de otras partes vinculadas"
+    },
+    "89": {
+      "v13_id": 89,
+      "v18_id": 84,
+      "code": "242300",
+      "name": "Créditos a empresas del grupo"
+    },
+    "90": {
+      "v13_id": 90,
+      "v18_id": 85,
+      "code": "242400",
+      "name": "Créditos a empresas asociadas"
+    },
+    "91": {
+      "v13_id": 91,
+      "v18_id": 86,
+      "code": "242500",
+      "name": "Créditos a otras partes vinculadas"
+    },
+    "610": {
+      "v13_id": 610,
+      "v18_id": 606,
+      "code": "249300",
+      "name": "Desembolsos pendientes sobre participaciones en empresas del grupo"
+    },
+    "611": {
+      "v13_id": 611,
+      "v18_id": 607,
+      "code": "249400",
+      "name": "Desembolsos pendientes sobre participaciones en empresas asociadas"
+    },
+    "612": {
+      "v13_id": 612,
+      "v18_id": 608,
+      "code": "249500",
+      "name": "Desembolsos pendientes sobre participaciones en otras partes vinculadas"
+    },
+    "92": {
+      "v13_id": 92,
+      "v18_id": 87,
+      "code": "250000",
+      "name": "Inversiones financieras en instrumentos de patrimonio"
+    },
+    "93": {
+      "v13_id": 93,
+      "v18_id": 88,
+      "code": "251000",
+      "name": "Valores representativos de deuda"
+    },
+    "94": {
+      "v13_id": 94,
+      "v18_id": 89,
+      "code": "252000",
+      "name": "Créditos"
+    },
+    "95": {
+      "v13_id": 95,
+      "v18_id": 90,
+      "code": "253000",
+      "name": "Créditos por enajenación de inmovilizado"
+    },
+    "96": {
+      "v13_id": 96,
+      "v18_id": 91,
+      "code": "254000",
+      "name": "Créditos al personal"
+    },
+    "613": {
+      "v13_id": 613,
+      "v18_id": 609,
+      "code": "255000",
+      "name": "Activos por derivados financieros"
+    },
+    "97": {
+      "v13_id": 97,
+      "v18_id": 92,
+      "code": "258000",
+      "name": "Imposiciones"
+    },
+    "98": {
+      "v13_id": 98,
+      "v18_id": 93,
+      "code": "259000",
+      "name": "Desembolsos pendientes sobre participaciones en el patrimonio neto"
+    },
+    "99": {
+      "v13_id": 99,
+      "v18_id": 94,
+      "code": "260000",
+      "name": "Fianzas constituidas"
+    },
+    "100": {
+      "v13_id": 100,
+      "v18_id": 95,
+      "code": "265000",
+      "name": "Depósitos constituidos"
+    },
+    "101": {
+      "v13_id": 101,
+      "v18_id": 96,
+      "code": "280000",
+      "name": "Amortización acumulada de investigación"
+    },
+    "102": {
+      "v13_id": 102,
+      "v18_id": 97,
+      "code": "280100",
+      "name": "Amortización acumulada de desarrollo"
+    },
+    "103": {
+      "v13_id": 103,
+      "v18_id": 98,
+      "code": "280200",
+      "name": "Amortización acumulada de concesiones administrativas"
+    },
+    "104": {
+      "v13_id": 104,
+      "v18_id": 99,
+      "code": "280300",
+      "name": "Amortización acumulada de propiedad industrial"
+    },
+    "105": {
+      "v13_id": 105,
+      "v18_id": 100,
+      "code": "280500",
+      "name": "Amortización acumulada de derechos de traspaso"
+    },
+    "106": {
+      "v13_id": 106,
+      "v18_id": 101,
+      "code": "280600",
+      "name": "Amortización acumulada de aplicaciones informáticas"
+    },
+    "107": {
+      "v13_id": 107,
+      "v18_id": 102,
+      "code": "281100",
+      "name": "Amortización acumulada de construcciones"
+    },
+    "108": {
+      "v13_id": 108,
+      "v18_id": 103,
+      "code": "281200",
+      "name": "Amortización acumulada de instalaciones técnicas"
+    },
+    "109": {
+      "v13_id": 109,
+      "v18_id": 104,
+      "code": "281300",
+      "name": "Amortización acumulada de maquinaria"
+    },
+    "110": {
+      "v13_id": 110,
+      "v18_id": 105,
+      "code": "281400",
+      "name": "Amortización acumulada de utillaje"
+    },
+    "111": {
+      "v13_id": 111,
+      "v18_id": 106,
+      "code": "281500",
+      "name": "Amortización acumulada de otras instalaciones"
+    },
+    "112": {
+      "v13_id": 112,
+      "v18_id": 107,
+      "code": "281600",
+      "name": "Amortización acumulada de mobiliario"
+    },
+    "113": {
+      "v13_id": 113,
+      "v18_id": 108,
+      "code": "281700",
+      "name": "Amortización acumulada de equipos para proceso de información"
+    },
+    "114": {
+      "v13_id": 114,
+      "v18_id": 109,
+      "code": "281800",
+      "name": "Amortización acumulada de elementos de transporte"
+    },
+    "115": {
+      "v13_id": 115,
+      "v18_id": 110,
+      "code": "281900",
+      "name": "Amortización acumulada de otro inmovilizado material"
+    },
+    "116": {
+      "v13_id": 116,
+      "v18_id": 111,
+      "code": "282000",
+      "name": "Amortización acumulada de las inversiones inmobiliarias"
+    },
+    "117": {
+      "v13_id": 117,
+      "v18_id": 112,
+      "code": "290000",
+      "name": "Deterioro del valor de investigación"
+    },
+    "118": {
+      "v13_id": 118,
+      "v18_id": 113,
+      "code": "290100",
+      "name": "Deterioro del valor de desarrollo"
+    },
+    "119": {
+      "v13_id": 119,
+      "v18_id": 114,
+      "code": "290200",
+      "name": "Deterioro del valor de concesiones administrativas"
+    },
+    "120": {
+      "v13_id": 120,
+      "v18_id": 115,
+      "code": "290300",
+      "name": "Deterioro del valor de propiedad industrial"
+    },
+    "121": {
+      "v13_id": 121,
+      "v18_id": 116,
+      "code": "290500",
+      "name": "Deterioro del valor de derechos de traspaso"
+    },
+    "122": {
+      "v13_id": 122,
+      "v18_id": 117,
+      "code": "290600",
+      "name": "Deterioro del valor de aplicaciones informáticas"
+    },
+    "123": {
+      "v13_id": 123,
+      "v18_id": 118,
+      "code": "291000",
+      "name": "Deterioro de valor de terrenos y bienes naturales"
+    },
+    "124": {
+      "v13_id": 124,
+      "v18_id": 119,
+      "code": "291100",
+      "name": "Deterioro de valor de construcciones"
+    },
+    "125": {
+      "v13_id": 125,
+      "v18_id": 120,
+      "code": "291200",
+      "name": "Deterioro de valor de instalaciones técnicas"
+    },
+    "126": {
+      "v13_id": 126,
+      "v18_id": 121,
+      "code": "291300",
+      "name": "Deterioro de valor de maquinaria"
+    },
+    "127": {
+      "v13_id": 127,
+      "v18_id": 122,
+      "code": "291400",
+      "name": "Deterioro de valor de utillaje"
+    },
+    "128": {
+      "v13_id": 128,
+      "v18_id": 123,
+      "code": "291500",
+      "name": "Deterioro de valor de otras instalaciones"
+    },
+    "129": {
+      "v13_id": 129,
+      "v18_id": 124,
+      "code": "291600",
+      "name": "Deterioro de valor de mobiliario"
+    },
+    "130": {
+      "v13_id": 130,
+      "v18_id": 125,
+      "code": "291700",
+      "name": "Deterioro de valor de equipos para proceso de información"
+    },
+    "131": {
+      "v13_id": 131,
+      "v18_id": 126,
+      "code": "291800",
+      "name": "Deterioro de valor de elementos de transporte"
+    },
+    "132": {
+      "v13_id": 132,
+      "v18_id": 127,
+      "code": "291900",
+      "name": "Deterioro de valor de otro inmovilizado material"
+    },
+    "133": {
+      "v13_id": 133,
+      "v18_id": 128,
+      "code": "292000",
+      "name": "Deterioro de valor de los terrenos y bienes naturales"
+    },
+    "134": {
+      "v13_id": 134,
+      "v18_id": 129,
+      "code": "292100",
+      "name": "Deterioro de valor de construcciones"
+    },
+    "135": {
+      "v13_id": 135,
+      "v18_id": 130,
+      "code": "293300",
+      "name": "Deterioro de valor de participaciones en empresas del grupo"
+    },
+    "136": {
+      "v13_id": 136,
+      "v18_id": 131,
+      "code": "293400",
+      "name": "Deterioro de valor de participaciones en empresas asociadas"
+    },
+    "614": {
+      "v13_id": 614,
+      "v18_id": 610,
+      "code": "293500",
+      "name": "Deterioro de valor de participaciones a largo plazo en otras partes vinculadas"
+    },
+    "137": {
+      "v13_id": 137,
+      "v18_id": 132,
+      "code": "294300",
+      "name": "Deterioro de valor de valores representativos de deuda de empresas del grupo"
+    },
+    "138": {
+      "v13_id": 138,
+      "v18_id": 133,
+      "code": "294400",
+      "name": "Deterioro de valor de valores representativos de deuda de empresas asociadas"
+    },
+    "139": {
+      "v13_id": 139,
+      "v18_id": 134,
+      "code": "294500",
+      "name": "Deterioro de valor de valores representativos de deuda de otras partes vinculadas"
+    },
+    "140": {
+      "v13_id": 140,
+      "v18_id": 135,
+      "code": "295300",
+      "name": "Deterioro de valor de créditos a empresas del grupo"
+    },
+    "141": {
+      "v13_id": 141,
+      "v18_id": 136,
+      "code": "295400",
+      "name": "Deterioro de valor de créditos a empresas asociadas"
+    },
+    "142": {
+      "v13_id": 142,
+      "v18_id": 137,
+      "code": "295500",
+      "name": "Deterioro de valor de créditos a otras partes vinculadas"
+    },
+    "615": {
+      "v13_id": 615,
+      "v18_id": 611,
+      "code": "296000",
+      "name": "Deterioro de  valor de participaciones en el patrimonio neto a largo plazo"
+    },
+    "143": {
+      "v13_id": 143,
+      "v18_id": 138,
+      "code": "297000",
+      "name": "Deterioro de valor de valores representativos de deuda"
+    },
+    "144": {
+      "v13_id": 144,
+      "v18_id": 139,
+      "code": "298000",
+      "name": "Deterioro de valor de créditos"
+    },
+    "145": {
+      "v13_id": 145,
+      "v18_id": 140,
+      "code": "300000",
+      "name": "Mercaderías A"
+    },
+    "146": {
+      "v13_id": 146,
+      "v18_id": 141,
+      "code": "301000",
+      "name": "Mercaderías B"
+    },
+    "147": {
+      "v13_id": 147,
+      "v18_id": 142,
+      "code": "310000",
+      "name": "Materias primas A"
+    },
+    "148": {
+      "v13_id": 148,
+      "v18_id": 143,
+      "code": "311000",
+      "name": "Materias primas B"
+    },
+    "149": {
+      "v13_id": 149,
+      "v18_id": 144,
+      "code": "320000",
+      "name": "Elementos y conjuntos incorporables"
+    },
+    "150": {
+      "v13_id": 150,
+      "v18_id": 145,
+      "code": "321000",
+      "name": "Combustibles"
+    },
+    "151": {
+      "v13_id": 151,
+      "v18_id": 146,
+      "code": "322000",
+      "name": "Repuestos"
+    },
+    "152": {
+      "v13_id": 152,
+      "v18_id": 147,
+      "code": "325000",
+      "name": "Materiales diversos"
+    },
+    "153": {
+      "v13_id": 153,
+      "v18_id": 148,
+      "code": "326000",
+      "name": "Embalajes"
+    },
+    "154": {
+      "v13_id": 154,
+      "v18_id": 149,
+      "code": "327000",
+      "name": "Envases"
+    },
+    "155": {
+      "v13_id": 155,
+      "v18_id": 150,
+      "code": "328000",
+      "name": "Material de oficina"
+    },
+    "156": {
+      "v13_id": 156,
+      "v18_id": 151,
+      "code": "330000",
+      "name": "Productos en curso A"
+    },
+    "157": {
+      "v13_id": 157,
+      "v18_id": 152,
+      "code": "331000",
+      "name": "Productos en curso B"
+    },
+    "158": {
+      "v13_id": 158,
+      "v18_id": 153,
+      "code": "340000",
+      "name": "Productos semiterminados A"
+    },
+    "159": {
+      "v13_id": 159,
+      "v18_id": 154,
+      "code": "341000",
+      "name": "Productos semiterminados B"
+    },
+    "160": {
+      "v13_id": 160,
+      "v18_id": 155,
+      "code": "350000",
+      "name": "Productos terminados A"
+    },
+    "161": {
+      "v13_id": 161,
+      "v18_id": 156,
+      "code": "351000",
+      "name": "Productos terminados B"
+    },
+    "162": {
+      "v13_id": 162,
+      "v18_id": 157,
+      "code": "360000",
+      "name": "Subproductos A"
+    },
+    "163": {
+      "v13_id": 163,
+      "v18_id": 158,
+      "code": "361000",
+      "name": "Subproductos B"
+    },
+    "164": {
+      "v13_id": 164,
+      "v18_id": 159,
+      "code": "365000",
+      "name": "Residuos A"
+    },
+    "165": {
+      "v13_id": 165,
+      "v18_id": 160,
+      "code": "366000",
+      "name": "Residuos B"
+    },
+    "166": {
+      "v13_id": 166,
+      "v18_id": 161,
+      "code": "368000",
+      "name": "Materiales recuperados A"
+    },
+    "167": {
+      "v13_id": 167,
+      "v18_id": 162,
+      "code": "369000",
+      "name": "Materiales recuperados B"
+    },
+    "168": {
+      "v13_id": 168,
+      "v18_id": 163,
+      "code": "390000",
+      "name": "Deterioro de valor de las mercaderías"
+    },
+    "169": {
+      "v13_id": 169,
+      "v18_id": 164,
+      "code": "391000",
+      "name": "Deterioro de valor de las materias primas"
+    },
+    "170": {
+      "v13_id": 170,
+      "v18_id": 165,
+      "code": "392000",
+      "name": "Deterioro de valor de otros aprovisionamientos"
+    },
+    "171": {
+      "v13_id": 171,
+      "v18_id": 166,
+      "code": "393000",
+      "name": "Deterioro de valor de los productos en curso"
+    },
+    "172": {
+      "v13_id": 172,
+      "v18_id": 167,
+      "code": "394000",
+      "name": "Deterioro de valor de los productos semiterminados"
+    },
+    "173": {
+      "v13_id": 173,
+      "v18_id": 168,
+      "code": "395000",
+      "name": "Deterioro de valor de los productos terminados"
+    },
+    "174": {
+      "v13_id": 174,
+      "v18_id": 169,
+      "code": "396000",
+      "name": "Deterioro de valor de los subproductos, residuos y materiales recuperados"
+    },
+    "175": {
+      "v13_id": 175,
+      "v18_id": 170,
+      "code": "400000",
+      "name": "Proveedores (euros)"
+    },
+    "176": {
+      "v13_id": 176,
+      "v18_id": 171,
+      "code": "400400",
+      "name": "Proveedores (moneda extranjera)"
+    },
+    "177": {
+      "v13_id": 177,
+      "v18_id": 172,
+      "code": "400900",
+      "name": "Proveedores, facturas pendientes de recibir o de formalizar"
+    },
+    "178": {
+      "v13_id": 178,
+      "v18_id": 173,
+      "code": "401000",
+      "name": "Proveedores, efectos comerciales a pagar"
+    },
+    "179": {
+      "v13_id": 179,
+      "v18_id": 174,
+      "code": "403000",
+      "name": "Proveedores, empresas del grupo (euros)"
+    },
+    "180": {
+      "v13_id": 180,
+      "v18_id": 175,
+      "code": "403100",
+      "name": "Efectos comerciales a pagar, empresas del grupo"
+    },
+    "181": {
+      "v13_id": 181,
+      "v18_id": 176,
+      "code": "403400",
+      "name": "Proveedores, empresas del grupo (moneda extranjera)"
+    },
+    "182": {
+      "v13_id": 182,
+      "v18_id": 177,
+      "code": "403600",
+      "name": "Envases y embalajes a devolver a proveedores, empresas del grupo"
+    },
+    "183": {
+      "v13_id": 183,
+      "v18_id": 178,
+      "code": "403900",
+      "name": "Proveedores, empresas del grupo, facturas pendientes de recibir o de formalizar"
+    },
+    "184": {
+      "v13_id": 184,
+      "v18_id": 179,
+      "code": "404000",
+      "name": "Proveedores, empresas asociadas"
+    },
+    "185": {
+      "v13_id": 185,
+      "v18_id": 180,
+      "code": "405000",
+      "name": "Proveedores, otras partes vinculadas"
+    },
+    "186": {
+      "v13_id": 186,
+      "v18_id": 181,
+      "code": "406000",
+      "name": "Envases y embalajes a devolver a proveedores"
+    },
+    "187": {
+      "v13_id": 187,
+      "v18_id": 182,
+      "code": "407000",
+      "name": "Anticipos a proveedores"
+    },
+    "188": {
+      "v13_id": 188,
+      "v18_id": 183,
+      "code": "410000",
+      "name": "Acreedores por prestaciones de servicios (euros)"
+    },
+    "189": {
+      "v13_id": 189,
+      "v18_id": 184,
+      "code": "410400",
+      "name": "Acreedores por prestaciones de servicios (moneda extranjera)"
+    },
+    "190": {
+      "v13_id": 190,
+      "v18_id": 185,
+      "code": "410900",
+      "name": "Acreedores por prestaciones de servicios, facturas pendientes de recibir o de formalizar"
+    },
+    "191": {
+      "v13_id": 191,
+      "v18_id": 186,
+      "code": "411000",
+      "name": "Acreedores, efectos comerciales a pagar"
+    },
+    "192": {
+      "v13_id": 192,
+      "v18_id": 187,
+      "code": "419000",
+      "name": "Acreedores por operaciones en común"
+    },
+    "193": {
+      "v13_id": 193,
+      "v18_id": 188,
+      "code": "430000",
+      "name": "Clientes (euros)"
+    },
+    "194": {
+      "v13_id": 194,
+      "v18_id": 189,
+      "code": "430100",
+      "name": "Clientes (euros) (PoS)"
+    },
+    "195": {
+      "v13_id": 195,
+      "v18_id": 190,
+      "code": "430400",
+      "name": "Clientes (moneda extranjera)"
+    },
+    "196": {
+      "v13_id": 196,
+      "v18_id": 191,
+      "code": "430900",
+      "name": "Clientes, facturas pendientes de recibir o de formalizar"
+    },
+    "197": {
+      "v13_id": 197,
+      "v18_id": 192,
+      "code": "431000",
+      "name": "Efectos comerciales en cartera"
+    },
+    "198": {
+      "v13_id": 198,
+      "v18_id": 193,
+      "code": "431100",
+      "name": "Efectos comerciales descontados"
+    },
+    "199": {
+      "v13_id": 199,
+      "v18_id": 194,
+      "code": "431200",
+      "name": "Efectos comerciales en gestión de cobro"
+    },
+    "200": {
+      "v13_id": 200,
+      "v18_id": 195,
+      "code": "431500",
+      "name": "Efectos comerciales impagados"
+    },
+    "201": {
+      "v13_id": 201,
+      "v18_id": 196,
+      "code": "432000",
+      "name": "Clientes, operaciones de factoring"
+    },
+    "202": {
+      "v13_id": 202,
+      "v18_id": 197,
+      "code": "433000",
+      "name": "Clientes empresas del grupo (euros)"
+    },
+    "203": {
+      "v13_id": 203,
+      "v18_id": 198,
+      "code": "433100",
+      "name": "Efectos comerciales a cobrar, empresas del grupo"
+    },
+    "204": {
+      "v13_id": 204,
+      "v18_id": 199,
+      "code": "433200",
+      "name": "Clientes empresas del grupo, operaciones de factoring"
+    },
+    "205": {
+      "v13_id": 205,
+      "v18_id": 200,
+      "code": "433400",
+      "name": "Clientes empresas del grupo (moneda extranjera)"
+    },
+    "206": {
+      "v13_id": 206,
+      "v18_id": 201,
+      "code": "433600",
+      "name": "Clientes empresas del grupo de dudoso cobro"
+    },
+    "207": {
+      "v13_id": 207,
+      "v18_id": 202,
+      "code": "433700",
+      "name": "Envases y embalajes a devolver a clientes, empresas del grupo"
+    },
+    "208": {
+      "v13_id": 208,
+      "v18_id": 203,
+      "code": "433900",
+      "name": "Clientes empresas del grupo, facturas pendientes de formalizar"
+    },
+    "209": {
+      "v13_id": 209,
+      "v18_id": 204,
+      "code": "434000",
+      "name": "Clientes, empresas asociadas"
+    },
+    "210": {
+      "v13_id": 210,
+      "v18_id": 205,
+      "code": "435000",
+      "name": "Clientes, otras partes vinculadas"
+    },
+    "211": {
+      "v13_id": 211,
+      "v18_id": 206,
+      "code": "436000",
+      "name": "Clientes de dudoso cobro"
+    },
+    "212": {
+      "v13_id": 212,
+      "v18_id": 207,
+      "code": "437000",
+      "name": "Envases y embalajes a devolver por clientes"
+    },
+    "213": {
+      "v13_id": 213,
+      "v18_id": 208,
+      "code": "438000",
+      "name": "Anticipos de clientes"
+    },
+    "214": {
+      "v13_id": 214,
+      "v18_id": 209,
+      "code": "440000",
+      "name": "Deudores (euros)"
+    },
+    "215": {
+      "v13_id": 215,
+      "v18_id": 210,
+      "code": "440400",
+      "name": "Deudores (moneda extranjera)"
+    },
+    "216": {
+      "v13_id": 216,
+      "v18_id": 211,
+      "code": "440900",
+      "name": "Deudores, facturas pendientes de formalizar"
+    },
+    "217": {
+      "v13_id": 217,
+      "v18_id": 212,
+      "code": "441000",
+      "name": "Deudores, efectos comerciales en cartera"
+    },
+    "218": {
+      "v13_id": 218,
+      "v18_id": 213,
+      "code": "441100",
+      "name": "Deudores, efectos comerciales descontados"
+    },
+    "219": {
+      "v13_id": 219,
+      "v18_id": 214,
+      "code": "441200",
+      "name": "Deudores, efectos comerciales en gestión de cobro"
+    },
+    "220": {
+      "v13_id": 220,
+      "v18_id": 215,
+      "code": "441500",
+      "name": "Deudores, efectos comerciales impagados"
+    },
+    "221": {
+      "v13_id": 221,
+      "v18_id": 216,
+      "code": "446000",
+      "name": "Deudores de dudoso cobro"
+    },
+    "222": {
+      "v13_id": 222,
+      "v18_id": 217,
+      "code": "449000",
+      "name": "Deudores por operaciones en común"
+    },
+    "223": {
+      "v13_id": 223,
+      "v18_id": 218,
+      "code": "460000",
+      "name": "Anticipos de remuneraciones"
+    },
+    "224": {
+      "v13_id": 224,
+      "v18_id": 219,
+      "code": "465000",
+      "name": "Remuneraciones pendientes de pago"
+    },
+    "225": {
+      "v13_id": 225,
+      "v18_id": 220,
+      "code": "470000",
+      "name": "Hacienda Pública, deudora por IVA"
+    },
+    "226": {
+      "v13_id": 226,
+      "v18_id": 221,
+      "code": "470800",
+      "name": "Hacienda Pública, deudora por subvenciones concedidas"
+    },
+    "227": {
+      "v13_id": 227,
+      "v18_id": 222,
+      "code": "470900",
+      "name": "Hacienda Pública, deudora por devolución de impuestos"
+    },
+    "228": {
+      "v13_id": 228,
+      "v18_id": 223,
+      "code": "471000",
+      "name": "Organismos de la Seguridad Social, deudores"
+    },
+    "229": {
+      "v13_id": 229,
+      "v18_id": 224,
+      "code": "472000",
+      "name": "Hacienda Pública. IVA soportado"
+    },
+    "230": {
+      "v13_id": 230,
+      "v18_id": 225,
+      "code": "473000",
+      "name": "Hacienda Pública, retenciones y pagos a cuenta"
+    },
+    "231": {
+      "v13_id": 231,
+      "v18_id": 226,
+      "code": "474000",
+      "name": "Activos por diferencias temporarias deducibles"
+    },
+    "232": {
+      "v13_id": 232,
+      "v18_id": 227,
+      "code": "474200",
+      "name": "Derechos por deducciones y bonificaciones pendientes de aplicar"
+    },
+    "233": {
+      "v13_id": 233,
+      "v18_id": 228,
+      "code": "474500",
+      "name": "Crédito por pérdidas a compensar del ejercicio"
+    },
+    "234": {
+      "v13_id": 234,
+      "v18_id": 229,
+      "code": "475000",
+      "name": "Hacienda Pública, acreedora por IVA"
+    },
+    "235": {
+      "v13_id": 235,
+      "v18_id": 230,
+      "code": "475100",
+      "name": "Hacienda Pública, acreedora por retenciones practicadas"
+    },
+    "236": {
+      "v13_id": 236,
+      "v18_id": 231,
+      "code": "475200",
+      "name": "Hacienda Pública, acreedora por impuesto sobre sociedades"
+    },
+    "237": {
+      "v13_id": 237,
+      "v18_id": 232,
+      "code": "475800",
+      "name": "Hacienda Pública, acreedora por subvenciones a reintegrar"
+    },
+    "238": {
+      "v13_id": 238,
+      "v18_id": 233,
+      "code": "475900",
+      "name": "Hacienda Pública, acreedora por otros conceptos"
+    },
+    "239": {
+      "v13_id": 239,
+      "v18_id": 234,
+      "code": "476000",
+      "name": "Organismos de la Seguridad Social, acreedores"
+    },
+    "240": {
+      "v13_id": 240,
+      "v18_id": 235,
+      "code": "477000",
+      "name": "Hacienda Pública. IVA repercutido"
+    },
+    "241": {
+      "v13_id": 241,
+      "v18_id": 236,
+      "code": "479000",
+      "name": "Pasivos por diferencias temporarias imponibles"
+    },
+    "242": {
+      "v13_id": 242,
+      "v18_id": 237,
+      "code": "480000",
+      "name": "Gastos anticipados"
+    },
+    "243": {
+      "v13_id": 243,
+      "v18_id": 238,
+      "code": "485000",
+      "name": "Ingresos anticipados"
+    },
+    "616": {
+      "v13_id": 616,
+      "v18_id": 612,
+      "code": "490000",
+      "name": "Deterioro de valor de créditos por operaciones comerciales"
+    },
+    "244": {
+      "v13_id": 244,
+      "v18_id": 239,
+      "code": "493300",
+      "name": "Deterioro de valor de créditos por operaciones comerciales con empresas del grupo"
+    },
+    "245": {
+      "v13_id": 245,
+      "v18_id": 240,
+      "code": "493400",
+      "name": "Deterioro de valor de créditos por operaciones comerciales con empresas asociadas"
+    },
+    "246": {
+      "v13_id": 246,
+      "v18_id": 241,
+      "code": "493500",
+      "name": "Deterioro de valor de créditos por operaciones comerciales con otras partes vinculadas"
+    },
+    "247": {
+      "v13_id": 247,
+      "v18_id": 242,
+      "code": "499400",
+      "name": "Provisión por contratos onerosos"
+    },
+    "248": {
+      "v13_id": 248,
+      "v18_id": 243,
+      "code": "499900",
+      "name": "Provisión para otras operaciones comerciales"
+    },
+    "249": {
+      "v13_id": 249,
+      "v18_id": 244,
+      "code": "500000",
+      "name": "Obligaciones y bonos a corto plazo"
+    },
+    "250": {
+      "v13_id": 250,
+      "v18_id": 613,
+      "code": "502000",
+      "name": "Acciones o participaciones a corto plazo consideradas como pasivos financieros"
+    },
+    "251": {
+      "v13_id": 251,
+      "v18_id": 245,
+      "code": "505000",
+      "name": "Deudas representadas en otros valores negociables a corto plazo"
+    },
+    "252": {
+      "v13_id": 252,
+      "v18_id": 246,
+      "code": "506000",
+      "name": "Intereses a corto plazo de empréstitos y otras emisiones análogas"
+    },
+    "253": {
+      "v13_id": 253,
+      "v18_id": 247,
+      "code": "507000",
+      "name": "Dividendos de acciones o participaciones consideradas como pasivos financieros"
+    },
+    "254": {
+      "v13_id": 254,
+      "v18_id": 248,
+      "code": "509000",
+      "name": "Obligaciones y bonos amortizados"
+    },
+    "255": {
+      "v13_id": 255,
+      "v18_id": 249,
+      "code": "509500",
+      "name": "Otros valores negociables amortizados"
+    },
+    "256": {
+      "v13_id": 256,
+      "v18_id": 250,
+      "code": "510300",
+      "name": "Deudas a corto plazo con entidades de crédito, empresas del grupo"
+    },
+    "257": {
+      "v13_id": 257,
+      "v18_id": 251,
+      "code": "510400",
+      "name": "Deudas a corto plazo con entidades de crédito, empresas asociadas"
+    },
+    "258": {
+      "v13_id": 258,
+      "v18_id": 252,
+      "code": "510500",
+      "name": "Deudas a corto plazo con otras entidades de crédito vinculadas"
+    },
+    "259": {
+      "v13_id": 259,
+      "v18_id": 253,
+      "code": "511300",
+      "name": "Proveedores de inmovilizado a corto plazo, empresas del grupo"
+    },
+    "260": {
+      "v13_id": 260,
+      "v18_id": 254,
+      "code": "511400",
+      "name": "Proveedores de inmovilizado a corto plazo, empresas asociadas"
+    },
+    "261": {
+      "v13_id": 261,
+      "v18_id": 255,
+      "code": "511500",
+      "name": "Proveedores de inmovilizado a corto plazo, otras partes vinculadas"
+    },
+    "262": {
+      "v13_id": 262,
+      "v18_id": 256,
+      "code": "512300",
+      "name": "Acreedores por arrendamiento financiero a corto plazo, empresas del grupo"
+    },
+    "263": {
+      "v13_id": 263,
+      "v18_id": 257,
+      "code": "512400",
+      "name": "Acreedores por arrendamiento financiero a corto plazo, empresas asociadas"
+    },
+    "264": {
+      "v13_id": 264,
+      "v18_id": 258,
+      "code": "512500",
+      "name": "Acreedores por arrendamiento financiero a corto plazo, otras partes vinculadas"
+    },
+    "265": {
+      "v13_id": 265,
+      "v18_id": 259,
+      "code": "513300",
+      "name": "Otras deudas a corto plazo con empresas del grupo"
+    },
+    "266": {
+      "v13_id": 266,
+      "v18_id": 260,
+      "code": "513400",
+      "name": "Otras deudas a corto plazo con empresas asociadas"
+    },
+    "267": {
+      "v13_id": 267,
+      "v18_id": 261,
+      "code": "513500",
+      "name": "Otras deudas a corto plazo con otras partes vinculadas"
+    },
+    "268": {
+      "v13_id": 268,
+      "v18_id": 262,
+      "code": "514300",
+      "name": "Intereses a corto plazo de deudas con empresas del grupo"
+    },
+    "269": {
+      "v13_id": 269,
+      "v18_id": 263,
+      "code": "514400",
+      "name": "Intereses a corto plazo de deudas con empresas asociadas"
+    },
+    "270": {
+      "v13_id": 270,
+      "v18_id": 264,
+      "code": "514500",
+      "name": "Intereses a corto plazo de deudas con otras partes vinculadas"
+    },
+    "271": {
+      "v13_id": 271,
+      "v18_id": 265,
+      "code": "520000",
+      "name": "Préstamos a corto plazo de entidades de crédito"
+    },
+    "272": {
+      "v13_id": 272,
+      "v18_id": 266,
+      "code": "520100",
+      "name": "Deudas a corto plazo por crédito dispuesto"
+    },
+    "273": {
+      "v13_id": 273,
+      "v18_id": 267,
+      "code": "520800",
+      "name": "Deudas por efectos descontados"
+    },
+    "274": {
+      "v13_id": 274,
+      "v18_id": 268,
+      "code": "520900",
+      "name": "Deudas por operaciones de “factoring”"
+    },
+    "275": {
+      "v13_id": 275,
+      "v18_id": 614,
+      "code": "521000",
+      "name": "Deudas a corto plazo"
+    },
+    "276": {
+      "v13_id": 276,
+      "v18_id": 269,
+      "code": "522000",
+      "name": "Deudas a corto plazo transformables en subvenciones, donaciones y legados"
+    },
+    "277": {
+      "v13_id": 277,
+      "v18_id": 270,
+      "code": "523000",
+      "name": "Proveedores de inmovilizado a corto plazo"
+    },
+    "278": {
+      "v13_id": 278,
+      "v18_id": 271,
+      "code": "524000",
+      "name": "Acreedores por arrendamiento financiero a corto plazo"
+    },
+    "279": {
+      "v13_id": 279,
+      "v18_id": 272,
+      "code": "525000",
+      "name": "Efectos a pagar a corto plazo"
+    },
+    "280": {
+      "v13_id": 280,
+      "v18_id": 615,
+      "code": "526000",
+      "name": "Dividendo activo a pagar"
+    },
+    "281": {
+      "v13_id": 281,
+      "v18_id": 273,
+      "code": "527000",
+      "name": "Intereses a corto plazo de deudas con entidades de crédito"
+    },
+    "282": {
+      "v13_id": 282,
+      "v18_id": 274,
+      "code": "528000",
+      "name": "Intereses a corto plazo de deudas"
+    },
+    "283": {
+      "v13_id": 283,
+      "v18_id": 275,
+      "code": "529000",
+      "name": "Provisión a corto plazo por retribuciones al personal"
+    },
+    "284": {
+      "v13_id": 284,
+      "v18_id": 276,
+      "code": "529100",
+      "name": "Provisión a corto plazo para impuestos"
+    },
+    "285": {
+      "v13_id": 285,
+      "v18_id": 277,
+      "code": "529200",
+      "name": "Provisión a corto plazo para otras responsabilidades"
+    },
+    "286": {
+      "v13_id": 286,
+      "v18_id": 278,
+      "code": "529300",
+      "name": "Provisión a corto plazo por desmantelamiento, retiro o rehabilitación del inmovilizado"
+    },
+    "287": {
+      "v13_id": 287,
+      "v18_id": 279,
+      "code": "529500",
+      "name": "Provisión a corto plazo para actuaciones medioambientales"
+    },
+    "288": {
+      "v13_id": 288,
+      "v18_id": 280,
+      "code": "530300",
+      "name": "Participaciones a corto plazo en empresas del grupo"
+    },
+    "289": {
+      "v13_id": 289,
+      "v18_id": 281,
+      "code": "530400",
+      "name": "Participaciones a corto plazo en empresas asociadas"
+    },
+    "290": {
+      "v13_id": 290,
+      "v18_id": 282,
+      "code": "530500",
+      "name": "Participaciones a corto plazo en otras partes vinculadas"
+    },
+    "291": {
+      "v13_id": 291,
+      "v18_id": 283,
+      "code": "531300",
+      "name": "Valores representativos de deuda a corto plazo de empresas del grupo"
+    },
+    "292": {
+      "v13_id": 292,
+      "v18_id": 284,
+      "code": "531400",
+      "name": "Valores representativos de deuda a corto plazo de empresas asociadas"
+    },
+    "293": {
+      "v13_id": 293,
+      "v18_id": 285,
+      "code": "531500",
+      "name": "Valores representativos de deuda a corto plazo de otras partes vinculadas"
+    },
+    "294": {
+      "v13_id": 294,
+      "v18_id": 286,
+      "code": "532300",
+      "name": "Créditos a corto plazo a empresas del grupo"
+    },
+    "295": {
+      "v13_id": 295,
+      "v18_id": 287,
+      "code": "532400",
+      "name": "Créditos a corto plazo a empresas asociadas"
+    },
+    "296": {
+      "v13_id": 296,
+      "v18_id": 288,
+      "code": "532500",
+      "name": "Créditos a corto plazo a otras partes vinculadas"
+    },
+    "297": {
+      "v13_id": 297,
+      "v18_id": 289,
+      "code": "533300",
+      "name": "Intereses a corto plazo de valores representativos de deuda de empresas del grupo"
+    },
+    "298": {
+      "v13_id": 298,
+      "v18_id": 290,
+      "code": "533400",
+      "name": "Intereses a corto plazo de valores representativos de deuda de empresas asociadas"
+    },
+    "299": {
+      "v13_id": 299,
+      "v18_id": 291,
+      "code": "533500",
+      "name": "Intereses a corto plazo de valores representativos de deuda de otras partes vinculadas"
+    },
+    "300": {
+      "v13_id": 300,
+      "v18_id": 292,
+      "code": "534300",
+      "name": "Intereses a corto plazo de créditos a empresas del grupo"
+    },
+    "301": {
+      "v13_id": 301,
+      "v18_id": 293,
+      "code": "534400",
+      "name": "Intereses a corto plazo de créditos a empresas asociadas"
+    },
+    "302": {
+      "v13_id": 302,
+      "v18_id": 294,
+      "code": "534500",
+      "name": "Intereses a corto plazo de créditos a otras partes vinculadas"
+    },
+    "303": {
+      "v13_id": 303,
+      "v18_id": 295,
+      "code": "535300",
+      "name": "Dividendo a cobrar de inversiones financieras en empresas del grupo"
+    },
+    "304": {
+      "v13_id": 304,
+      "v18_id": 296,
+      "code": "535400",
+      "name": "Dividendo a cobrar de inversiones financieras en empresas asociadas"
+    },
+    "305": {
+      "v13_id": 305,
+      "v18_id": 297,
+      "code": "535500",
+      "name": "Dividendo a cobrar de inversiones financieras en otras partes vinculadas"
+    },
+    "306": {
+      "v13_id": 306,
+      "v18_id": 298,
+      "code": "539300",
+      "name": "Desembolsos pendientes sobre participaciones a corto plazo en empresas del grupo"
+    },
+    "307": {
+      "v13_id": 307,
+      "v18_id": 299,
+      "code": "539400",
+      "name": "Desembolsos pendientes sobre participaciones a corto plazo en empresas asociadas"
+    },
+    "308": {
+      "v13_id": 308,
+      "v18_id": 300,
+      "code": "539500",
+      "name": "Desembolsos pendientes sobre participaciones a corto plazo en otras partes vinculadas"
+    },
+    "309": {
+      "v13_id": 309,
+      "v18_id": 301,
+      "code": "540000",
+      "name": "Inversiones financieras a corto plazo en instrumentos de patrimonio"
+    },
+    "310": {
+      "v13_id": 310,
+      "v18_id": 302,
+      "code": "541000",
+      "name": "Valores representativos de deuda a corto plazo"
+    },
+    "311": {
+      "v13_id": 311,
+      "v18_id": 303,
+      "code": "542000",
+      "name": "Créditos a corto plazo"
+    },
+    "312": {
+      "v13_id": 312,
+      "v18_id": 304,
+      "code": "543000",
+      "name": "Créditos a corto plazo por enajenación de inmovilizado"
+    },
+    "313": {
+      "v13_id": 313,
+      "v18_id": 305,
+      "code": "544000",
+      "name": "Créditos a corto plazo al personal"
+    },
+    "314": {
+      "v13_id": 314,
+      "v18_id": 306,
+      "code": "545000",
+      "name": "Dividendo a cobrar"
+    },
+    "315": {
+      "v13_id": 315,
+      "v18_id": 307,
+      "code": "546000",
+      "name": "Intereses a corto plazo de valores representativos de deudas"
+    },
+    "316": {
+      "v13_id": 316,
+      "v18_id": 308,
+      "code": "547000",
+      "name": "Intereses a corto plazo de créditos"
+    },
+    "317": {
+      "v13_id": 317,
+      "v18_id": 309,
+      "code": "548000",
+      "name": "Imposiciones a corto plazo"
+    },
+    "318": {
+      "v13_id": 318,
+      "v18_id": 310,
+      "code": "549000",
+      "name": "Desembolsos pendientes sobre participaciones en el patrimonio neto a corto plazo"
+    },
+    "319": {
+      "v13_id": 319,
+      "v18_id": 311,
+      "code": "550000",
+      "name": "Titular de la explotación"
+    },
+    "617": {
+      "v13_id": 617,
+      "v18_id": 616,
+      "code": "551000",
+      "name": "Cuenta corriente con socios y administradores"
+    },
+    "320": {
+      "v13_id": 320,
+      "v18_id": 312,
+      "code": "552300",
+      "name": "Cuenta corriente con empresas del grupo"
+    },
+    "321": {
+      "v13_id": 321,
+      "v18_id": 313,
+      "code": "552400",
+      "name": "Cuenta corriente con empresas asociadas"
+    },
+    "322": {
+      "v13_id": 322,
+      "v18_id": 314,
+      "code": "552500",
+      "name": "Cuenta corriente con otras partes vinculadas"
+    },
+    "323": {
+      "v13_id": 323,
+      "v18_id": 315,
+      "code": "554000",
+      "name": "Cuenta corriente con uniones temporales de empresas y comunidades de bienes"
+    },
+    "324": {
+      "v13_id": 324,
+      "v18_id": 316,
+      "code": "555000",
+      "name": "Partidas pendientes de aplicación"
+    },
+    "325": {
+      "v13_id": 325,
+      "v18_id": 317,
+      "code": "556300",
+      "name": "Desembolsos exigidos sobre participaciones, empresas del grupo"
+    },
+    "326": {
+      "v13_id": 326,
+      "v18_id": 318,
+      "code": "556400",
+      "name": "Desembolsos exigidos sobre participaciones, empresas asociadas"
+    },
+    "327": {
+      "v13_id": 327,
+      "v18_id": 319,
+      "code": "556500",
+      "name": "Desembolsos exigidos sobre participaciones, otras partes vinculadas"
+    },
+    "328": {
+      "v13_id": 328,
+      "v18_id": 320,
+      "code": "556600",
+      "name": "Desembolsos exigidos sobre participaciones de otras empresas"
+    },
+    "329": {
+      "v13_id": 329,
+      "v18_id": 321,
+      "code": "557000",
+      "name": "Dividendo activo a cuenta"
+    },
+    "330": {
+      "v13_id": 330,
+      "v18_id": 322,
+      "code": "558000",
+      "name": "Socios por desembolsos exigidos sobre acciones o participaciones ordinarias"
+    },
+    "331": {
+      "v13_id": 331,
+      "v18_id": 617,
+      "code": "558500",
+      "name": "Socios por desembolsos exigidos sobre acciones o participaciones consideradas como pasivos financieros"
+    },
+    "332": {
+      "v13_id": 332,
+      "v18_id": 323,
+      "code": "559000",
+      "name": "Activos por derivados financieros a corto plazo, cartera de negociación"
+    },
+    "333": {
+      "v13_id": 333,
+      "v18_id": 324,
+      "code": "559500",
+      "name": "Pasivos por derivados financieros a corto plazo, cartera de negociación"
+    },
+    "334": {
+      "v13_id": 334,
+      "v18_id": 325,
+      "code": "560000",
+      "name": "Fianzas recibidas a corto plazo"
+    },
+    "335": {
+      "v13_id": 335,
+      "v18_id": 326,
+      "code": "561000",
+      "name": "Depósitos recibidos a corto plazo"
+    },
+    "336": {
+      "v13_id": 336,
+      "v18_id": 327,
+      "code": "565000",
+      "name": "Fianzas constituidas a corto plazo"
+    },
+    "337": {
+      "v13_id": 337,
+      "v18_id": 328,
+      "code": "566000",
+      "name": "Depósitos constituidos a corto plazo"
+    },
+    "338": {
+      "v13_id": 338,
+      "v18_id": 329,
+      "code": "567000",
+      "name": "Intereses pagados por anticipado"
+    },
+    "339": {
+      "v13_id": 339,
+      "v18_id": 330,
+      "code": "568000",
+      "name": "Intereses cobrados por anticipado"
+    },
+    "340": {
+      "v13_id": 340,
+      "v18_id": 331,
+      "code": "570000",
+      "name": "Caja, euros"
+    },
+    "633": {
+      "v13_id": 633,
+      "v18_id": 634,
+      "code": "570001",
+      "name": "Efectivo"
+    },
+    "341": {
+      "v13_id": 341,
+      "v18_id": 332,
+      "code": "571000",
+      "name": "Caja, moneda extranjera"
+    },
+    "342": {
+      "v13_id": 342,
+      "v18_id": 333,
+      "code": "572000",
+      "name": "Bancos e instituciones de crédito c/c vista, euros"
+    },
+    "634": {
+      "v13_id": 634,
+      "v18_id": 633,
+      "code": "572001",
+      "name": "Banco"
+    },
+    "637": {
+      "v13_id": 637,
+      "v18_id": 636,
+      "code": "572002",
+      "name": "Banco Sabadell"
+    },
+    "1": {
+      "v13_id": 1,
+      "v18_id": 1311,
+      "code": "5729991",
+      "name": "Transferencia de liquidez"
+    },
+    "636": {
+      "v13_id": 636,
+      "v18_id": 668,
+      "code": "5729992",
+      "name": "Paypal"
+    },
+    "343": {
+      "v13_id": 343,
+      "v18_id": 335,
+      "code": "573000",
+      "name": "Bancos e instituciones de crédito c/c vista, moneda extranjera"
+    },
+    "344": {
+      "v13_id": 344,
+      "v18_id": 336,
+      "code": "574000",
+      "name": "Bancos e instituciones de crédito, cuentas de ahorro, euros"
+    },
+    "345": {
+      "v13_id": 345,
+      "v18_id": 337,
+      "code": "575000",
+      "name": "Bancos e instituciones de crédito, cuentas de ahorro, moneda extranjera"
+    },
+    "346": {
+      "v13_id": 346,
+      "v18_id": 338,
+      "code": "576000",
+      "name": "Inversiones a corto plazo de gran liquidez"
+    },
+    "347": {
+      "v13_id": 347,
+      "v18_id": 339,
+      "code": "593300",
+      "name": "Deterioro de valor de participaciones a corto plazo en empresas del grupo"
+    },
+    "348": {
+      "v13_id": 348,
+      "v18_id": 340,
+      "code": "593400",
+      "name": "Deterioro de valor de participaciones a corto plazo en empresas asociadas"
+    },
+    "618": {
+      "v13_id": 618,
+      "v18_id": 618,
+      "code": "593500",
+      "name": "Deterioro de valor de participaciones a corto plazo en otras partes vinculadas"
+    },
+    "349": {
+      "v13_id": 349,
+      "v18_id": 341,
+      "code": "594300",
+      "name": "Deterioro de valor de valores representativos de deuda a corto plazo de empresas del grupo"
+    },
+    "350": {
+      "v13_id": 350,
+      "v18_id": 342,
+      "code": "594400",
+      "name": "Deterioro de valor de valores representativos de deuda a corto plazo de empresas asociadas"
+    },
+    "351": {
+      "v13_id": 351,
+      "v18_id": 343,
+      "code": "594500",
+      "name": "Deterioro de valor de valores representativos de deuda a corto plazo de otras partes vinculadas"
+    },
+    "352": {
+      "v13_id": 352,
+      "v18_id": 344,
+      "code": "595300",
+      "name": "Deterioro de valor de créditos a corto plazo a empresas del grupo"
+    },
+    "353": {
+      "v13_id": 353,
+      "v18_id": 345,
+      "code": "595400",
+      "name": "Deterioro de valor de créditos a corto plazo a empresas asociadas"
+    },
+    "354": {
+      "v13_id": 354,
+      "v18_id": 346,
+      "code": "595500",
+      "name": "Deterioro de valor de créditos a corto plazo a otras partes vinculadas"
+    },
+    "619": {
+      "v13_id": 619,
+      "v18_id": 619,
+      "code": "596000",
+      "name": "Deterioro de valor de participaciones a corto plazo"
+    },
+    "355": {
+      "v13_id": 355,
+      "v18_id": 347,
+      "code": "597000",
+      "name": "Deterioro de valor de valores representativos de deuda a corto plazo"
+    },
+    "356": {
+      "v13_id": 356,
+      "v18_id": 348,
+      "code": "598000",
+      "name": "Deterioro de valor de créditos a corto plazo"
+    },
+    "357": {
+      "v13_id": 357,
+      "v18_id": 349,
+      "code": "600000",
+      "name": "Compras de mercaderías"
+    },
+    "358": {
+      "v13_id": 358,
+      "v18_id": 350,
+      "code": "601000",
+      "name": "Compras de materias primas"
+    },
+    "359": {
+      "v13_id": 359,
+      "v18_id": 351,
+      "code": "602000",
+      "name": "Compras de otros aprovisionamientos"
+    },
+    "360": {
+      "v13_id": 360,
+      "v18_id": 352,
+      "code": "606000",
+      "name": "Descuentos sobre compras por pronto pago de mercaderías"
+    },
+    "361": {
+      "v13_id": 361,
+      "v18_id": 353,
+      "code": "606100",
+      "name": "Descuentos sobre compras por pronto pago de materias primas"
+    },
+    "362": {
+      "v13_id": 362,
+      "v18_id": 354,
+      "code": "606200",
+      "name": "Descuentos sobre compras por pronto pago de otros aprovisionamientos"
+    },
+    "363": {
+      "v13_id": 363,
+      "v18_id": 355,
+      "code": "607000",
+      "name": "Trabajos realizados por otras empresas"
+    },
+    "364": {
+      "v13_id": 364,
+      "v18_id": 356,
+      "code": "608000",
+      "name": "Devoluciones de compras de mercaderías"
+    },
+    "365": {
+      "v13_id": 365,
+      "v18_id": 357,
+      "code": "608100",
+      "name": "Devoluciones de compras de materias primas"
+    },
+    "366": {
+      "v13_id": 366,
+      "v18_id": 358,
+      "code": "608200",
+      "name": "Devoluciones de compras de otros aprovisionamientos"
+    },
+    "367": {
+      "v13_id": 367,
+      "v18_id": 359,
+      "code": "609000",
+      "name": "\"Rappels\" por compras de mercaderías"
+    },
+    "368": {
+      "v13_id": 368,
+      "v18_id": 360,
+      "code": "609100",
+      "name": "\"Rappels\" por compras de materias primas"
+    },
+    "369": {
+      "v13_id": 369,
+      "v18_id": 361,
+      "code": "609200",
+      "name": "\"Rappels\" por compras de otros aprovisionamientos"
+    },
+    "370": {
+      "v13_id": 370,
+      "v18_id": 362,
+      "code": "610000",
+      "name": "Variación de existencias de mercaderías"
+    },
+    "371": {
+      "v13_id": 371,
+      "v18_id": 363,
+      "code": "611000",
+      "name": "Variación de existencias de materias primas"
+    },
+    "372": {
+      "v13_id": 372,
+      "v18_id": 364,
+      "code": "612000",
+      "name": "Variación de existencias de otros aprovisionamientos"
+    },
+    "373": {
+      "v13_id": 373,
+      "v18_id": 365,
+      "code": "620000",
+      "name": "Gastos en investigación y desarrollo del ejercicio"
+    },
+    "374": {
+      "v13_id": 374,
+      "v18_id": 366,
+      "code": "621000",
+      "name": "Arrendamientos y cánones"
+    },
+    "375": {
+      "v13_id": 375,
+      "v18_id": 367,
+      "code": "622000",
+      "name": "Reparaciones y conservación"
+    },
+    "376": {
+      "v13_id": 376,
+      "v18_id": 368,
+      "code": "623000",
+      "name": "Servicios de profesionales independientes"
+    },
+    "377": {
+      "v13_id": 377,
+      "v18_id": 369,
+      "code": "624000",
+      "name": "Transportes"
+    },
+    "378": {
+      "v13_id": 378,
+      "v18_id": 370,
+      "code": "625000",
+      "name": "Primas de seguros"
+    },
+    "379": {
+      "v13_id": 379,
+      "v18_id": 371,
+      "code": "626000",
+      "name": "Servicios bancarios y similares"
+    },
+    "380": {
+      "v13_id": 380,
+      "v18_id": 372,
+      "code": "627000",
+      "name": "Publicidad, propaganda y relaciones públicas"
+    },
+    "381": {
+      "v13_id": 381,
+      "v18_id": 373,
+      "code": "628000",
+      "name": "Suministros"
+    },
+    "382": {
+      "v13_id": 382,
+      "v18_id": 374,
+      "code": "629000",
+      "name": "Otros servicios"
+    },
+    "383": {
+      "v13_id": 383,
+      "v18_id": 375,
+      "code": "630000",
+      "name": "Impuesto corriente"
+    },
+    "384": {
+      "v13_id": 384,
+      "v18_id": 376,
+      "code": "630100",
+      "name": "Impuesto diferido"
+    },
+    "385": {
+      "v13_id": 385,
+      "v18_id": 377,
+      "code": "631000",
+      "name": "Otros tributos"
+    },
+    "386": {
+      "v13_id": 386,
+      "v18_id": 378,
+      "code": "633000",
+      "name": "Ajustes negativos en la imposición sobre beneficios"
+    },
+    "387": {
+      "v13_id": 387,
+      "v18_id": 379,
+      "code": "634100",
+      "name": "Ajustes negativos en IVA de activo corriente"
+    },
+    "388": {
+      "v13_id": 388,
+      "v18_id": 380,
+      "code": "634200",
+      "name": "Ajustes negativos en IVA de inversiones"
+    },
+    "389": {
+      "v13_id": 389,
+      "v18_id": 381,
+      "code": "636000",
+      "name": "Devolución de impuestos"
+    },
+    "390": {
+      "v13_id": 390,
+      "v18_id": 382,
+      "code": "638000",
+      "name": "Ajustes positivos en la imposición sobre beneficios"
+    },
+    "391": {
+      "v13_id": 391,
+      "v18_id": 383,
+      "code": "639100",
+      "name": "Ajustes positivos en IVA de activo corriente"
+    },
+    "392": {
+      "v13_id": 392,
+      "v18_id": 384,
+      "code": "639200",
+      "name": "Ajustes positivos en IVA de inversiones"
+    },
+    "393": {
+      "v13_id": 393,
+      "v18_id": 385,
+      "code": "640000",
+      "name": "Sueldos y salarios"
+    },
+    "394": {
+      "v13_id": 394,
+      "v18_id": 386,
+      "code": "641000",
+      "name": "Indemnizaciones"
+    },
+    "395": {
+      "v13_id": 395,
+      "v18_id": 387,
+      "code": "642000",
+      "name": "Seguridad Social a cargo de la empresa"
+    },
+    "396": {
+      "v13_id": 396,
+      "v18_id": 388,
+      "code": "649000",
+      "name": "Otros gastos sociales"
+    },
+    "620": {
+      "v13_id": 620,
+      "v18_id": 620,
+      "code": "650000",
+      "name": "Pérdidas de créditos comerciales incobrables"
+    },
+    "621": {
+      "v13_id": 621,
+      "v18_id": 621,
+      "code": "651000",
+      "name": "Beneficio transferido (gestor)"
+    },
+    "622": {
+      "v13_id": 622,
+      "v18_id": 622,
+      "code": "651100",
+      "name": "Pérdida soportada (partícipe o asociado no gestor)"
+    },
+    "623": {
+      "v13_id": 623,
+      "v18_id": 623,
+      "code": "659000",
+      "name": "Otras pérdidas en gestión corriente"
+    },
+    "397": {
+      "v13_id": 397,
+      "v18_id": 389,
+      "code": "660000",
+      "name": "Gastos financieros por actualización de provisiones"
+    },
+    "398": {
+      "v13_id": 398,
+      "v18_id": 390,
+      "code": "661000",
+      "name": "Intereses de obligaciones y bonos, empresas del grupo"
+    },
+    "399": {
+      "v13_id": 399,
+      "v18_id": 391,
+      "code": "661100",
+      "name": "Intereses de obligaciones y bonos, empresas asociadas"
+    },
+    "400": {
+      "v13_id": 400,
+      "v18_id": 392,
+      "code": "661200",
+      "name": "Intereses de obligaciones y bonos, otras partes vinculadas"
+    },
+    "401": {
+      "v13_id": 401,
+      "v18_id": 393,
+      "code": "661300",
+      "name": "Intereses de obligaciones y bonos, otras empresas"
+    },
+    "402": {
+      "v13_id": 402,
+      "v18_id": 394,
+      "code": "661500",
+      "name": "Intereses de obligaciones y bonos a corto plazo, empresas del grupo"
+    },
+    "403": {
+      "v13_id": 403,
+      "v18_id": 395,
+      "code": "661600",
+      "name": "Intereses de obligaciones y bonos a corto plazo, empresas asociadas"
+    },
+    "404": {
+      "v13_id": 404,
+      "v18_id": 396,
+      "code": "661700",
+      "name": "Intereses de obligaciones y bonos a corto plazo, otras partes vinculadas"
+    },
+    "405": {
+      "v13_id": 405,
+      "v18_id": 397,
+      "code": "661800",
+      "name": "Intereses de obligaciones y bonos a corto plazo, otras empresas"
+    },
+    "406": {
+      "v13_id": 406,
+      "v18_id": 398,
+      "code": "662000",
+      "name": "Intereses de deudas, empresas del grupo"
+    },
+    "407": {
+      "v13_id": 407,
+      "v18_id": 399,
+      "code": "662100",
+      "name": "Intereses de deudas, empresas asociadas"
+    },
+    "408": {
+      "v13_id": 408,
+      "v18_id": 400,
+      "code": "662200",
+      "name": "Intereses de deudas, otras partes vinculadas"
+    },
+    "409": {
+      "v13_id": 409,
+      "v18_id": 401,
+      "code": "662300",
+      "name": "Intereses de deudas con entidades de crédito"
+    },
+    "410": {
+      "v13_id": 410,
+      "v18_id": 402,
+      "code": "662400",
+      "name": "Intereses de deudas, otras empresas"
+    },
+    "624": {
+      "v13_id": 624,
+      "v18_id": 624,
+      "code": "663000",
+      "name": "Pérdidas por valoración de instrumentos financieros por su valor razonable"
+    },
+    "411": {
+      "v13_id": 411,
+      "v18_id": 403,
+      "code": "664000",
+      "name": "Dividendos de pasivos, empresas del grupo"
+    },
+    "412": {
+      "v13_id": 412,
+      "v18_id": 404,
+      "code": "664100",
+      "name": "Dividendos de pasivos, empresas asociadas"
+    },
+    "413": {
+      "v13_id": 413,
+      "v18_id": 405,
+      "code": "664200",
+      "name": "Dividendos de pasivos, otras partes vinculadas"
+    },
+    "414": {
+      "v13_id": 414,
+      "v18_id": 406,
+      "code": "664300",
+      "name": "Dividendos de pasivos, otras empresas"
+    },
+    "415": {
+      "v13_id": 415,
+      "v18_id": 407,
+      "code": "665000",
+      "name": "Intereses por descuento de efectos en entidades de crédito del grupo"
+    },
+    "416": {
+      "v13_id": 416,
+      "v18_id": 408,
+      "code": "665100",
+      "name": "Intereses por descuento de efectos en entidades de crédito asociadas"
+    },
+    "417": {
+      "v13_id": 417,
+      "v18_id": 409,
+      "code": "665200",
+      "name": "Intereses por descuento de efectos en entidades de crédito vinculadas"
+    },
+    "418": {
+      "v13_id": 418,
+      "v18_id": 410,
+      "code": "665300",
+      "name": "Intereses por descuento de efectos en otras entidades de crédito"
+    },
+    "419": {
+      "v13_id": 419,
+      "v18_id": 411,
+      "code": "665400",
+      "name": "Intereses por operaciones de \"factoring\" con entidades de crédito del grupo"
+    },
+    "420": {
+      "v13_id": 420,
+      "v18_id": 412,
+      "code": "665500",
+      "name": "Intereses por operaciones de \"factoring\" con entidades de crédito asociadas"
+    },
+    "421": {
+      "v13_id": 421,
+      "v18_id": 413,
+      "code": "665600",
+      "name": "Intereses por operaciones de \"factoring\" con entidades de crédito vinculadas"
+    },
+    "422": {
+      "v13_id": 422,
+      "v18_id": 414,
+      "code": "665700",
+      "name": "Intereses por operaciones de \"factoring\" con otras entidades de crédito"
+    },
+    "423": {
+      "v13_id": 423,
+      "v18_id": 415,
+      "code": "666000",
+      "name": "Pérdidas en valores representativos de deuda, empresas del grupo"
+    },
+    "424": {
+      "v13_id": 424,
+      "v18_id": 416,
+      "code": "666100",
+      "name": "Pérdidas en valores representativos de deuda, empresas asociadas"
+    },
+    "425": {
+      "v13_id": 425,
+      "v18_id": 417,
+      "code": "666200",
+      "name": "Pérdidas en valores representativos de deuda, otras partes vinculadas"
+    },
+    "426": {
+      "v13_id": 426,
+      "v18_id": 418,
+      "code": "666300",
+      "name": "Pérdidas en valores representativos de deuda, otras empresas"
+    },
+    "427": {
+      "v13_id": 427,
+      "v18_id": 419,
+      "code": "666500",
+      "name": "Pérdidas en valores representativos de deuda a corto plazo, empresas del grupo"
+    },
+    "428": {
+      "v13_id": 428,
+      "v18_id": 420,
+      "code": "666600",
+      "name": "Pérdidas en valores representativos de deuda a corto plazo, empresas asociadas"
+    },
+    "429": {
+      "v13_id": 429,
+      "v18_id": 421,
+      "code": "666700",
+      "name": "Pérdidas en valores representativos de deuda a corto plazo, otras partes vinculadas"
+    },
+    "430": {
+      "v13_id": 430,
+      "v18_id": 422,
+      "code": "666800",
+      "name": "Pérdidas en valores representativos de deuda a corto plazo, otras empresas"
+    },
+    "431": {
+      "v13_id": 431,
+      "v18_id": 423,
+      "code": "667000",
+      "name": "Pérdidas de créditos, empresas del grupo"
+    },
+    "432": {
+      "v13_id": 432,
+      "v18_id": 424,
+      "code": "667100",
+      "name": "Pérdidas de créditos, empresas asociadas"
+    },
+    "433": {
+      "v13_id": 433,
+      "v18_id": 425,
+      "code": "667200",
+      "name": "Pérdidas de créditos, otras partes vinculadas"
+    },
+    "434": {
+      "v13_id": 434,
+      "v18_id": 426,
+      "code": "667300",
+      "name": "Pérdidas de créditos, otras empresas"
+    },
+    "435": {
+      "v13_id": 435,
+      "v18_id": 427,
+      "code": "667500",
+      "name": "Pérdidas de créditos a corto plazo, empresas del grupo"
+    },
+    "436": {
+      "v13_id": 436,
+      "v18_id": 428,
+      "code": "667600",
+      "name": "Pérdidas de créditos a corto plazo, empresas asociadas"
+    },
+    "437": {
+      "v13_id": 437,
+      "v18_id": 429,
+      "code": "667700",
+      "name": "Pérdidas de créditos a corto plazo, otras partes vinculadas"
+    },
+    "438": {
+      "v13_id": 438,
+      "v18_id": 430,
+      "code": "667800",
+      "name": "Pérdidas de créditos a corto plazo, otras empresas"
+    },
+    "439": {
+      "v13_id": 439,
+      "v18_id": 431,
+      "code": "668000",
+      "name": "Diferencias negativas de cambio"
+    },
+    "440": {
+      "v13_id": 440,
+      "v18_id": 432,
+      "code": "669000",
+      "name": "Otros gastos financieros"
+    },
+    "441": {
+      "v13_id": 441,
+      "v18_id": 433,
+      "code": "670000",
+      "name": "Pérdidas procedentes del inmovilizado intangible"
+    },
+    "625": {
+      "v13_id": 625,
+      "v18_id": 625,
+      "code": "671000",
+      "name": "Pérdidas procedentes del inmovilizado material"
+    },
+    "442": {
+      "v13_id": 442,
+      "v18_id": 434,
+      "code": "672000",
+      "name": "Pérdidas procedentes de las inversiones inmobiliarias"
+    },
+    "443": {
+      "v13_id": 443,
+      "v18_id": 435,
+      "code": "673300",
+      "name": "Pérdidas procedentes de participaciones en, empresas del grupo"
+    },
+    "444": {
+      "v13_id": 444,
+      "v18_id": 436,
+      "code": "673400",
+      "name": "Pérdidas procedentes de participaciones, empresas asociadas"
+    },
+    "445": {
+      "v13_id": 445,
+      "v18_id": 437,
+      "code": "673500",
+      "name": "Pérdidas procedentes de participaciones, otras partes vinculadas"
+    },
+    "446": {
+      "v13_id": 446,
+      "v18_id": 438,
+      "code": "675000",
+      "name": "Pérdidas por operaciones con obligaciones propias"
+    },
+    "447": {
+      "v13_id": 447,
+      "v18_id": 439,
+      "code": "678000",
+      "name": "Gastos excepcionales"
+    },
+    "448": {
+      "v13_id": 448,
+      "v18_id": 440,
+      "code": "680000",
+      "name": "Amortización del inmovilizado intangible"
+    },
+    "449": {
+      "v13_id": 449,
+      "v18_id": 441,
+      "code": "681000",
+      "name": "Amortización del inmovilizado material"
+    },
+    "450": {
+      "v13_id": 450,
+      "v18_id": 442,
+      "code": "682000",
+      "name": "Amortización de las inversiones inmobiliarias"
+    },
+    "451": {
+      "v13_id": 451,
+      "v18_id": 443,
+      "code": "690000",
+      "name": "Pérdidas por deterioro del inmovilizado intangible"
+    },
+    "626": {
+      "v13_id": 626,
+      "v18_id": 626,
+      "code": "691000",
+      "name": "Pérdidas por deterioro del inmovilizado material"
+    },
+    "452": {
+      "v13_id": 452,
+      "v18_id": 444,
+      "code": "692000",
+      "name": "Pérdidas por deterioro de las inversiones inmobiliarias"
+    },
+    "453": {
+      "v13_id": 453,
+      "v18_id": 445,
+      "code": "693000",
+      "name": "Pérdidas por deterioro de productos terminados y en curso de fabricación"
+    },
+    "454": {
+      "v13_id": 454,
+      "v18_id": 446,
+      "code": "693100",
+      "name": "Pérdidas por deterioro de mercaderías"
+    },
+    "455": {
+      "v13_id": 455,
+      "v18_id": 447,
+      "code": "693200",
+      "name": "Pérdidas por deterioro de materias primas"
+    },
+    "456": {
+      "v13_id": 456,
+      "v18_id": 448,
+      "code": "693300",
+      "name": "Pérdidas por deterioro de otros aprovisionamientos"
+    },
+    "627": {
+      "v13_id": 627,
+      "v18_id": 627,
+      "code": "694000",
+      "name": "Pérdidas por deterioro de créditos por operaciones comerciales"
+    },
+    "457": {
+      "v13_id": 457,
+      "v18_id": 449,
+      "code": "695400",
+      "name": "Dotación a la provisión por contratos onerosos"
+    },
+    "458": {
+      "v13_id": 458,
+      "v18_id": 450,
+      "code": "695900",
+      "name": "Dotación a la provisión para otras operaciones comerciales"
+    },
+    "459": {
+      "v13_id": 459,
+      "v18_id": 451,
+      "code": "696000",
+      "name": "Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto, empresas del grupo"
+    },
+    "460": {
+      "v13_id": 460,
+      "v18_id": 452,
+      "code": "696100",
+      "name": "Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto, empresas asociadas"
+    },
+    "461": {
+      "v13_id": 461,
+      "v18_id": 453,
+      "code": "696200",
+      "name": "Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto, otras partes vinculadas"
+    },
+    "462": {
+      "v13_id": 462,
+      "v18_id": 454,
+      "code": "696300",
+      "name": "Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto, otras empresas"
+    },
+    "463": {
+      "v13_id": 463,
+      "v18_id": 455,
+      "code": "696500",
+      "name": "Pérdidas por deterioro en valores representativos de deuda, empresas del grupo"
+    },
+    "464": {
+      "v13_id": 464,
+      "v18_id": 456,
+      "code": "696600",
+      "name": "Pérdidas por deterioro en valores representativos de deuda, empresas asociadas"
+    },
+    "465": {
+      "v13_id": 465,
+      "v18_id": 457,
+      "code": "696700",
+      "name": "Pérdidas por deterioro en valores representativos de deuda, otras partes vinculadas"
+    },
+    "466": {
+      "v13_id": 466,
+      "v18_id": 458,
+      "code": "696800",
+      "name": "Pérdidas por deterioro en valores representativos de deuda, otras empresas"
+    },
+    "467": {
+      "v13_id": 467,
+      "v18_id": 459,
+      "code": "697000",
+      "name": "Pérdidas por deterioro de créditos, empresas del grupo"
+    },
+    "468": {
+      "v13_id": 468,
+      "v18_id": 460,
+      "code": "697100",
+      "name": "Pérdidas por deterioro de créditos, empresas asociadas"
+    },
+    "469": {
+      "v13_id": 469,
+      "v18_id": 461,
+      "code": "697200",
+      "name": "Pérdidas por deterioro de créditos, otras partes vinculadas"
+    },
+    "470": {
+      "v13_id": 470,
+      "v18_id": 462,
+      "code": "697300",
+      "name": "Pérdidas por deterioro de créditos, otras empresas"
+    },
+    "471": {
+      "v13_id": 471,
+      "v18_id": 463,
+      "code": "698000",
+      "name": "Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, empresas del grupo"
+    },
+    "472": {
+      "v13_id": 472,
+      "v18_id": 464,
+      "code": "698100",
+      "name": "Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, empresas asociadas"
+    },
+    "473": {
+      "v13_id": 473,
+      "v18_id": 465,
+      "code": "698500",
+      "name": "Pérdidas por deterioro en valores representativos de deuda a corto plazo, empresas del grupo"
+    },
+    "474": {
+      "v13_id": 474,
+      "v18_id": 466,
+      "code": "698600",
+      "name": "Pérdidas por deterioro en valores representativos de deuda a corto plazo, empresas asociadas"
+    },
+    "475": {
+      "v13_id": 475,
+      "v18_id": 467,
+      "code": "698700",
+      "name": "Pérdidas por deterioro en valores representativos de deuda a corto plazo, otras partes vinculadas"
+    },
+    "476": {
+      "v13_id": 476,
+      "v18_id": 468,
+      "code": "698800",
+      "name": "Pérdidas por deterioro en valores representativos de deuda a corto plazo, otras empresas"
+    },
+    "477": {
+      "v13_id": 477,
+      "v18_id": 469,
+      "code": "699000",
+      "name": "Pérdidas por deterioro de créditos a corto plazo, empresas del grupo"
+    },
+    "478": {
+      "v13_id": 478,
+      "v18_id": 470,
+      "code": "699100",
+      "name": "Pérdidas por deterioro de créditos a corto plazo, empresas asociadas"
+    },
+    "479": {
+      "v13_id": 479,
+      "v18_id": 471,
+      "code": "699200",
+      "name": "Pérdidas por deterioro de créditos a corto plazo, otras partes vinculadas"
+    },
+    "480": {
+      "v13_id": 480,
+      "v18_id": 472,
+      "code": "699300",
+      "name": "Pérdidas por deterioro de créditos a corto plazo, otras empresas"
+    },
+    "481": {
+      "v13_id": 481,
+      "v18_id": 473,
+      "code": "700000",
+      "name": "Ventas de mercaderías en España"
+    },
+    "635": {
+      "v13_id": 635,
+      "v18_id": 669,
+      "code": "700001",
+      "name": "Ventas de mercaderías en España (WooCoommerce)"
+    },
+    "482": {
+      "v13_id": 482,
+      "v18_id": 474,
+      "code": "700100",
+      "name": "Ventas de mercaderías Intracomunitarias"
+    },
+    "483": {
+      "v13_id": 483,
+      "v18_id": 475,
+      "code": "700200",
+      "name": "Ventas de mercaderías Exportación"
+    },
+    "484": {
+      "v13_id": 484,
+      "v18_id": 476,
+      "code": "701000",
+      "name": "Ventas de productos terminados en España"
+    },
+    "485": {
+      "v13_id": 485,
+      "v18_id": 477,
+      "code": "701100",
+      "name": "Ventas de productos terminados Intracomunitarias"
+    },
+    "486": {
+      "v13_id": 486,
+      "v18_id": 478,
+      "code": "701200",
+      "name": "Ventas de productos terminados Exportación"
+    },
+    "487": {
+      "v13_id": 487,
+      "v18_id": 479,
+      "code": "702000",
+      "name": "Ventas de productos semiterminados en España"
+    },
+    "488": {
+      "v13_id": 488,
+      "v18_id": 480,
+      "code": "702100",
+      "name": "Ventas de productos semiterminados Intracomunitarias"
+    },
+    "489": {
+      "v13_id": 489,
+      "v18_id": 481,
+      "code": "702200",
+      "name": "Ventas de productos semiterminados Exportación"
+    },
+    "490": {
+      "v13_id": 490,
+      "v18_id": 482,
+      "code": "703000",
+      "name": "Ventas de subproductos y residuos en España"
+    },
+    "491": {
+      "v13_id": 491,
+      "v18_id": 483,
+      "code": "703100",
+      "name": "Ventas de subproductos y residuos Intracomunitarias"
+    },
+    "492": {
+      "v13_id": 492,
+      "v18_id": 484,
+      "code": "703200",
+      "name": "Ventas de subproductos y residuos Exportación"
+    },
+    "493": {
+      "v13_id": 493,
+      "v18_id": 485,
+      "code": "704000",
+      "name": "Ventas de envases y embalajes en España"
+    },
+    "494": {
+      "v13_id": 494,
+      "v18_id": 486,
+      "code": "704100",
+      "name": "Ventas de envases y embalajes Intracomunitarias"
+    },
+    "495": {
+      "v13_id": 495,
+      "v18_id": 487,
+      "code": "704200",
+      "name": "Ventas de envases y embalajes Exportación"
+    },
+    "496": {
+      "v13_id": 496,
+      "v18_id": 488,
+      "code": "705000",
+      "name": "Prestaciones de servicios en España"
+    },
+    "497": {
+      "v13_id": 497,
+      "v18_id": 489,
+      "code": "705100",
+      "name": "Prestaciones de servicios Intracomunitarias"
+    },
+    "498": {
+      "v13_id": 498,
+      "v18_id": 490,
+      "code": "705200",
+      "name": "Prestaciones de servicios fuera de la UE"
+    },
+    "499": {
+      "v13_id": 499,
+      "v18_id": 491,
+      "code": "706000",
+      "name": "Descuentos sobre ventas por pronto pago de mercaderías"
+    },
+    "500": {
+      "v13_id": 500,
+      "v18_id": 492,
+      "code": "706100",
+      "name": "Descuentos sobre ventas por pronto pago de productos terminados"
+    },
+    "501": {
+      "v13_id": 501,
+      "v18_id": 493,
+      "code": "706200",
+      "name": "Descuentos sobre ventas por pronto pago de productos semiterminados"
+    },
+    "502": {
+      "v13_id": 502,
+      "v18_id": 494,
+      "code": "706300",
+      "name": "Descuentos sobre ventas por pronto pago de subproductos y residuos"
+    },
+    "503": {
+      "v13_id": 503,
+      "v18_id": 495,
+      "code": "708000",
+      "name": "Devoluciones de ventas de mercaderías"
+    },
+    "504": {
+      "v13_id": 504,
+      "v18_id": 496,
+      "code": "708100",
+      "name": "Devoluciones de ventas de productos terminados"
+    },
+    "505": {
+      "v13_id": 505,
+      "v18_id": 497,
+      "code": "708200",
+      "name": "Devoluciones de ventas de productos semiterminados"
+    },
+    "506": {
+      "v13_id": 506,
+      "v18_id": 498,
+      "code": "708300",
+      "name": "Devoluciones de ventas de subproductos y residuos"
+    },
+    "507": {
+      "v13_id": 507,
+      "v18_id": 499,
+      "code": "708400",
+      "name": "Devoluciones de ventas de envases y embalajes"
+    },
+    "508": {
+      "v13_id": 508,
+      "v18_id": 500,
+      "code": "709000",
+      "name": "\"Rappels\" sobre ventas de mercaderías"
+    },
+    "509": {
+      "v13_id": 509,
+      "v18_id": 501,
+      "code": "709100",
+      "name": "\"Rappels\" sobre ventas de productos terminados"
+    },
+    "510": {
+      "v13_id": 510,
+      "v18_id": 502,
+      "code": "709200",
+      "name": "\"Rappels\" sobre ventas de productos semiterminados"
+    },
+    "511": {
+      "v13_id": 511,
+      "v18_id": 503,
+      "code": "709300",
+      "name": "\"Rappels\" sobre ventas de subproductos y residuos"
+    },
+    "512": {
+      "v13_id": 512,
+      "v18_id": 504,
+      "code": "709400",
+      "name": "\"Rappels\" sobre ventas de envases y embalajes"
+    },
+    "513": {
+      "v13_id": 513,
+      "v18_id": 505,
+      "code": "710000",
+      "name": "Variación de existencias de productos en curso"
+    },
+    "514": {
+      "v13_id": 514,
+      "v18_id": 506,
+      "code": "711000",
+      "name": "Variación de existencias de productos semiterminados"
+    },
+    "515": {
+      "v13_id": 515,
+      "v18_id": 507,
+      "code": "712000",
+      "name": "Variación de existencias de productos terminados"
+    },
+    "516": {
+      "v13_id": 516,
+      "v18_id": 508,
+      "code": "713000",
+      "name": "Variación de existencias de subproductos, residuos y materiales recuperados"
+    },
+    "517": {
+      "v13_id": 517,
+      "v18_id": 509,
+      "code": "730000",
+      "name": "Trabajos realizados para el inmovilizado intangible"
+    },
+    "518": {
+      "v13_id": 518,
+      "v18_id": 510,
+      "code": "731000",
+      "name": "Trabajos realizados para el inmovilizado material"
+    },
+    "519": {
+      "v13_id": 519,
+      "v18_id": 511,
+      "code": "732000",
+      "name": "Trabajos realizados en inversiones inmobiliarias"
+    },
+    "520": {
+      "v13_id": 520,
+      "v18_id": 512,
+      "code": "733000",
+      "name": "Trabajos realizados para el inmovilizado material en curso"
+    },
+    "521": {
+      "v13_id": 521,
+      "v18_id": 513,
+      "code": "740000",
+      "name": "Subvenciones, donaciones y legados a la explotación"
+    },
+    "522": {
+      "v13_id": 522,
+      "v18_id": 514,
+      "code": "746000",
+      "name": "Subvenciones, donaciones y legados de capital transferidos al resultado del ejercicio de carácter no financiero"
+    },
+    "523": {
+      "v13_id": 523,
+      "v18_id": 515,
+      "code": "746100",
+      "name": "Subvenciones, donaciones y legados de capital transferidos al resultado del ejercicio de carácter financiero"
+    },
+    "524": {
+      "v13_id": 524,
+      "v18_id": 516,
+      "code": "747000",
+      "name": "Otras subvenciones, donaciones y legados transferidos al resultado del ejercicio"
+    },
+    "525": {
+      "v13_id": 525,
+      "v18_id": 517,
+      "code": "751000",
+      "name": "Pérdida transferido (gestor)"
+    },
+    "526": {
+      "v13_id": 526,
+      "v18_id": 518,
+      "code": "751100",
+      "name": "Beneficio atribuido (partícipe o asociado no gestor)"
+    },
+    "527": {
+      "v13_id": 527,
+      "v18_id": 519,
+      "code": "752000",
+      "name": "Ingresos por arrendamientos"
+    },
+    "528": {
+      "v13_id": 528,
+      "v18_id": 520,
+      "code": "753000",
+      "name": "Ingresos de propiedad industrial cedida en explotación"
+    },
+    "529": {
+      "v13_id": 529,
+      "v18_id": 521,
+      "code": "754000",
+      "name": "Ingresos por comisiones"
+    },
+    "530": {
+      "v13_id": 530,
+      "v18_id": 522,
+      "code": "755000",
+      "name": "Ingresos por servicios al personal"
+    },
+    "531": {
+      "v13_id": 531,
+      "v18_id": 523,
+      "code": "759000",
+      "name": "Ingresos por servicios diversos"
+    },
+    "532": {
+      "v13_id": 532,
+      "v18_id": 524,
+      "code": "760000",
+      "name": "Ingresos de participaciones en instrumentos de patrimonio, empresas del grupo"
+    },
+    "533": {
+      "v13_id": 533,
+      "v18_id": 525,
+      "code": "760100",
+      "name": "Ingresos de participaciones en instrumentos de patrimonio, empresas asociadas"
+    },
+    "534": {
+      "v13_id": 534,
+      "v18_id": 526,
+      "code": "760200",
+      "name": "Ingresos de participaciones en instrumentos de patrimonio, otras partes vinculadas"
+    },
+    "535": {
+      "v13_id": 535,
+      "v18_id": 527,
+      "code": "760300",
+      "name": "Ingresos de participaciones en instrumentos de patrimonio, otras empresas"
+    },
+    "536": {
+      "v13_id": 536,
+      "v18_id": 528,
+      "code": "761000",
+      "name": "Ingresos de valores representativos de deuda, empresas del grupo"
+    },
+    "537": {
+      "v13_id": 537,
+      "v18_id": 529,
+      "code": "761100",
+      "name": "Ingresos de valores representativos de deuda, empresas asociadas"
+    },
+    "538": {
+      "v13_id": 538,
+      "v18_id": 530,
+      "code": "761200",
+      "name": "Ingresos de valores representativos de deuda, otras partes vinculadas"
+    },
+    "539": {
+      "v13_id": 539,
+      "v18_id": 531,
+      "code": "761300",
+      "name": "Ingresos de valores representativos de deuda, otras empresas"
+    },
+    "540": {
+      "v13_id": 540,
+      "v18_id": 532,
+      "code": "762000",
+      "name": "Ingresos de créditos a largo plazo, empresas del grupo"
+    },
+    "541": {
+      "v13_id": 541,
+      "v18_id": 533,
+      "code": "762010",
+      "name": "Ingresos de créditos a largo plazo, empresas asociadas"
+    },
+    "542": {
+      "v13_id": 542,
+      "v18_id": 534,
+      "code": "762020",
+      "name": "Ingresos de créditos a largo plazo, otras partes vinculadas"
+    },
+    "543": {
+      "v13_id": 543,
+      "v18_id": 535,
+      "code": "762030",
+      "name": "Ingresos de créditos a largo plazo, otras empresas"
+    },
+    "544": {
+      "v13_id": 544,
+      "v18_id": 536,
+      "code": "762100",
+      "name": "Ingresos de créditos a corto plazo, empresas del grupo"
+    },
+    "545": {
+      "v13_id": 545,
+      "v18_id": 537,
+      "code": "762110",
+      "name": "Ingresos de créditos a corto plazo, empresas asociadas"
+    },
+    "546": {
+      "v13_id": 546,
+      "v18_id": 538,
+      "code": "762120",
+      "name": "Ingresos de créditos a corto plazo, otras partes vinculadas"
+    },
+    "547": {
+      "v13_id": 547,
+      "v18_id": 539,
+      "code": "762130",
+      "name": "Ingresos de créditos a corto plazo, otras empresas"
+    },
+    "628": {
+      "v13_id": 628,
+      "v18_id": 628,
+      "code": "763000",
+      "name": "Beneficios por valoración de instrumentos financieros por su valor razonable"
+    },
+    "548": {
+      "v13_id": 548,
+      "v18_id": 540,
+      "code": "766000",
+      "name": "Beneficios en valores representativos de deuda a largo plazo, empresas del grupo"
+    },
+    "549": {
+      "v13_id": 549,
+      "v18_id": 541,
+      "code": "766100",
+      "name": "Beneficios en valores representativos de deuda a largo plazo, empresas asociadas"
+    },
+    "550": {
+      "v13_id": 550,
+      "v18_id": 542,
+      "code": "766200",
+      "name": "Beneficios en valores representativos de deuda a largo plazo, otras partes vinculadas"
+    },
+    "551": {
+      "v13_id": 551,
+      "v18_id": 543,
+      "code": "766300",
+      "name": "Beneficios en valores representativos de deuda a largo plazo, otras empresas"
+    },
+    "552": {
+      "v13_id": 552,
+      "v18_id": 544,
+      "code": "766500",
+      "name": "Beneficios en valores representativos de deuda a corto plazo, empresas del grupo"
+    },
+    "553": {
+      "v13_id": 553,
+      "v18_id": 545,
+      "code": "766600",
+      "name": "Beneficios en valores representativos de deuda a corto plazo, empresas asociadas"
+    },
+    "554": {
+      "v13_id": 554,
+      "v18_id": 546,
+      "code": "766700",
+      "name": "Beneficios en valores representativos de deuda a corto plazo, otras partes vinculadas"
+    },
+    "555": {
+      "v13_id": 555,
+      "v18_id": 547,
+      "code": "766800",
+      "name": "Beneficios en valores representativos de deuda a corto plazo, otras empresas"
+    },
+    "556": {
+      "v13_id": 556,
+      "v18_id": 548,
+      "code": "768000",
+      "name": "Diferencias positivas de cambio"
+    },
+    "557": {
+      "v13_id": 557,
+      "v18_id": 549,
+      "code": "769000",
+      "name": "Otros ingresos financieros"
+    },
+    "558": {
+      "v13_id": 558,
+      "v18_id": 550,
+      "code": "770000",
+      "name": "Beneficios procedentes del inmovilizado intangible"
+    },
+    "559": {
+      "v13_id": 559,
+      "v18_id": 551,
+      "code": "771000",
+      "name": "Beneficios procedentes del inmovilizado material"
+    },
+    "560": {
+      "v13_id": 560,
+      "v18_id": 552,
+      "code": "772000",
+      "name": "Beneficios procedentes de las inversiones inmobiliarias"
+    },
+    "561": {
+      "v13_id": 561,
+      "v18_id": 553,
+      "code": "773300",
+      "name": "Beneficios procedentes de participaciones a largo plazo, empresas del grupo"
+    },
+    "562": {
+      "v13_id": 562,
+      "v18_id": 554,
+      "code": "773400",
+      "name": "Beneficios procedentes de participaciones a largo plazo, empresas asociadas"
+    },
+    "563": {
+      "v13_id": 563,
+      "v18_id": 555,
+      "code": "773500",
+      "name": "Beneficios procedentes de participaciones a largo plazo, otras partes vinculadas"
+    },
+    "564": {
+      "v13_id": 564,
+      "v18_id": 556,
+      "code": "775000",
+      "name": "Beneficos por operaciones con obligaciones propias"
+    },
+    "565": {
+      "v13_id": 565,
+      "v18_id": 557,
+      "code": "778000",
+      "name": "Ingresos excepcionales"
+    },
+    "566": {
+      "v13_id": 566,
+      "v18_id": 558,
+      "code": "790000",
+      "name": "Reversión del deterioro del inmovilizado intangible"
+    },
+    "629": {
+      "v13_id": 629,
+      "v18_id": 629,
+      "code": "791000",
+      "name": "Reversión del deterioro del inmovilizado material"
+    },
+    "567": {
+      "v13_id": 567,
+      "v18_id": 559,
+      "code": "792000",
+      "name": "Reversión del deterioro de las inversiones inmobiliarias"
+    },
+    "568": {
+      "v13_id": 568,
+      "v18_id": 560,
+      "code": "793000",
+      "name": "Reversión del deterioro de productos terminados y en curso de fabricación"
+    },
+    "569": {
+      "v13_id": 569,
+      "v18_id": 561,
+      "code": "793100",
+      "name": "Reversión del deterioro de mercaderías"
+    },
+    "570": {
+      "v13_id": 570,
+      "v18_id": 562,
+      "code": "793200",
+      "name": "Reversión del deterioro de materias primas"
+    },
+    "571": {
+      "v13_id": 571,
+      "v18_id": 563,
+      "code": "793300",
+      "name": "Reversión del deterioro de otros aprovisionamientos"
+    },
+    "630": {
+      "v13_id": 630,
+      "v18_id": 630,
+      "code": "794000",
+      "name": "Reversión del deterioro de créditos por operaciones comerciales"
+    },
+    "572": {
+      "v13_id": 572,
+      "v18_id": 564,
+      "code": "795100",
+      "name": "Exceso de provisión para impuestos"
+    },
+    "573": {
+      "v13_id": 573,
+      "v18_id": 565,
+      "code": "795200",
+      "name": "Exceso de provisión para otras responsabilidades"
+    },
+    "574": {
+      "v13_id": 574,
+      "v18_id": 566,
+      "code": "795440",
+      "name": "Exceso de provisión por contratos onerosos"
+    },
+    "575": {
+      "v13_id": 575,
+      "v18_id": 567,
+      "code": "795490",
+      "name": "Exceso de provisión para otras operaciones comerciales"
+    },
+    "576": {
+      "v13_id": 576,
+      "v18_id": 568,
+      "code": "795500",
+      "name": "Exceso de provisión para actuaciones medioambientales"
+    },
+    "577": {
+      "v13_id": 577,
+      "v18_id": 569,
+      "code": "796000",
+      "name": "Reversión del deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, empresas del grupo"
+    },
+    "578": {
+      "v13_id": 578,
+      "v18_id": 570,
+      "code": "796100",
+      "name": "Reversión del deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, empresas asociadas"
+    },
+    "631": {
+      "v13_id": 631,
+      "v18_id": 631,
+      "code": "796200",
+      "name": "Reversión del deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, otras partes vinculadas"
+    },
+    "632": {
+      "v13_id": 632,
+      "v18_id": 632,
+      "code": "796300",
+      "name": "Reversión del deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, otras empresas"
+    },
+    "579": {
+      "v13_id": 579,
+      "v18_id": 571,
+      "code": "796500",
+      "name": "Reversión del deterioro de valores representativos de deuda a largo plazo, empresas del grupo"
+    },
+    "580": {
+      "v13_id": 580,
+      "v18_id": 572,
+      "code": "796600",
+      "name": "Reversión del deterioro de valores representativos de deuda a largo plazo, empresas asociadas"
+    },
+    "581": {
+      "v13_id": 581,
+      "v18_id": 573,
+      "code": "796700",
+      "name": "Reversión del deterioro de valores representativos de deuda a largo plazo, otras partes vinculadas"
+    },
+    "582": {
+      "v13_id": 582,
+      "v18_id": 574,
+      "code": "796800",
+      "name": "Reversión del deterioro de valores representativos de deuda a largo plazo, otras empresas"
+    },
+    "583": {
+      "v13_id": 583,
+      "v18_id": 575,
+      "code": "797000",
+      "name": "Reversión del deterioro de créditos a largo plazo, empresas del grupo"
+    },
+    "584": {
+      "v13_id": 584,
+      "v18_id": 576,
+      "code": "797100",
+      "name": "Reversión del deterioro de créditos a largo plazo, empresas asociadas"
+    },
+    "585": {
+      "v13_id": 585,
+      "v18_id": 577,
+      "code": "797200",
+      "name": "Reversión del deterioro de créditos a largo plazo, otras partes vinculadas"
+    },
+    "586": {
+      "v13_id": 586,
+      "v18_id": 578,
+      "code": "797300",
+      "name": "Reversión del deterioro de créditos a largo plazo, otras empresas"
+    },
+    "587": {
+      "v13_id": 587,
+      "v18_id": 579,
+      "code": "798000",
+      "name": "Reversión del deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, empresas del grupo"
+    },
+    "588": {
+      "v13_id": 588,
+      "v18_id": 580,
+      "code": "798100",
+      "name": "Reversión del deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, empresas asociadas"
+    },
+    "589": {
+      "v13_id": 589,
+      "v18_id": 581,
+      "code": "798500",
+      "name": "Reversión del deterioro de valores representativos de deuda a corto plazo, empresas del grupo"
+    },
+    "590": {
+      "v13_id": 590,
+      "v18_id": 582,
+      "code": "798600",
+      "name": "Reversión del deterioro de valores representativos de deuda a corto plazo, empresas asociadas"
+    },
+    "591": {
+      "v13_id": 591,
+      "v18_id": 583,
+      "code": "798700",
+      "name": "Reversión del deterioro de valores representativos de deuda a corto plazo, otras partes vinculadas"
+    },
+    "592": {
+      "v13_id": 592,
+      "v18_id": 584,
+      "code": "798800",
+      "name": "Reversión del deterioro de valores representativos de deuda a corto plazo, otras empresas"
+    },
+    "593": {
+      "v13_id": 593,
+      "v18_id": 585,
+      "code": "799000",
+      "name": "Reversión del deterioro de créditos a corto plazo, empresas del grupo"
+    },
+    "594": {
+      "v13_id": 594,
+      "v18_id": 586,
+      "code": "799100",
+      "name": "Reversión del deterioro de créditos a corto plazo, empresas asociadas"
+    },
+    "595": {
+      "v13_id": 595,
+      "v18_id": 587,
+      "code": "799200",
+      "name": "Reversión del deterioro de créditos a corto plazo, otras partes vinculadas"
+    },
+    "596": {
+      "v13_id": 596,
+      "v18_id": 588,
+      "code": "799300",
+      "name": "Reversión del deterioro de créditos a corto plazo, otras empresas"
+    }
+  },
+  "journals": {
+    "1": {
+      "v13_id": 1,
+      "v18_id": 1,
+      "code": "INV",
+      "name": "Facturas Plataforma"
+    },
+    "2": {
+      "v13_id": 2,
+      "v18_id": 2,
+      "code": "FACTU",
+      "name": "Facturas de proveedor"
+    },
+    "4": {
+      "v13_id": 4,
+      "v18_id": 4,
+      "code": "CAMBI",
+      "name": "Diferencia de cambio"
+    },
+    "7": {
+      "v13_id": 7,
+      "v18_id": 6,
+      "code": "BNK1",
+      "name": "CAIXABANK, S.A."
+    },
+    "15": {
+      "v13_id": 15,
+      "v18_id": 25,
+      "code": "SAB",
+      "name": "Banco Sabadell"
+    },
+    "6": {
+      "v13_id": 6,
+      "v18_id": 7,
+      "code": "CSH1",
+      "name": "Efectivo"
+    },
+    "5": {
+      "v13_id": 5,
+      "v18_id": 5,
+      "code": "CABA",
+      "name": "Impuestos Base Efectivo"
+    },
+    "9": {
+      "v13_id": 9,
+      "v18_id": 8,
+      "code": "STJ",
+      "name": "Valoración del inventario"
+    },
+    "14": {
+      "v13_id": 14,
+      "v18_id": 21,
+      "code": "AutFr",
+      "name": "Autofacturas Comisiones"
+    },
+    "16": {
+      "v13_id": 16,
+      "v18_id": 22,
+      "code": "BITM",
+      "name": "Bitdefender Manual"
+    },
+    "8": {
+      "v13_id": 8,
+      "v18_id": 26,
+      "code": "FC/W",
+      "name": "Pedidos WooCommerce"
+    },
+    "12": {
+      "v13_id": 12,
+      "v18_id": 23,
+      "code": "FCIMP",
+      "name": "Facturas 2025"
+    },
+    "13": {
+      "v13_id": 13,
+      "v18_id": 24,
+      "code": "IMP",
+      "name": "Contratos Manuales"
+    },
+    "10": {
+      "v13_id": 10,
+      "v18_id": 27,
+      "code": "PAYPA",
+      "name": "Paypal"
+    }
+  }
+}
